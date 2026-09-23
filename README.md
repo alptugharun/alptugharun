@@ -38,8 +38,19 @@ Yapay zekâ destekli yeni nesil reklam ve yaratıcı iletişim ajansı.
 Çevre, sürdürülebilir yaşam ve teknolojiyi anlaşılır, uygulanabilir ve yaratıcı içeriklerle buluşturan dijital eğitim ve iletişim projesi.
 
 ## Kullandığım Araçlar
-
 ChatGPT • Claude • Gemini • Grok • DeepSeek • NotebookLM • Cursor • Codex • Canva • Adobe Photoshop • Adobe Illustrator • CapCut • DaVinci Resolve • ElevenLabs • Zapier
+
+## Öne Çıkan Kaynak
+
+### AI Social Media Toolkit
+
+Sosyal medya stratejisi, yapay zekâ destekli içerik üretimi, Canva, Pinterest, Reels, prompt engineering, içerik otomasyonu ve dijital görünürlük üzerine geliştirdiğim pratik framework, workflow ve kaynak koleksiyonu.
+
+**Version 1:** 9 kapsamlı kaynak ve uygulama sistemi.
+
+🔗 [AI Social Media Toolkit'i GitHub'da incele](https://github.com/alptugharun/ai-social-media-toolkit)
+
+🌐 [alptugharun.com](https://alptugharun.com)
 
 ## Bağlantılar
 
