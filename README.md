@@ -1,69 +1,91 @@
 # Alptuğ Harun
 
-### Sosyal Medya Uzmanı • Dijital İçerik Üreticisi • Yaratıcı Stratejist
+### Social Media Specialist • Digital Content Creator • Creative Strategist
 
 📍 Antalya, Türkiye
 
-Sosyal medya, dijital içerik üretimi, yapay zekâ, dijital pazarlama ve yaratıcı teknoloji alanlarında çalışıyorum.
+I build practical systems at the intersection of **AI, social media, creator workflows, visual search, digital marketing and creative technology**.
 
-**ADYA Creative** kurucusu, **Yeşil Dijital Akademi** kurucu ortağıyım.
+Sosyal medya stratejisi, yapay zekâ destekli içerik üretimi, dijital görünürlük ve yaratıcı teknoloji projeleri geliştiriyorum.
 
-## Hakkımda
+[![Website](https://img.shields.io/badge/Website-alptugharun.com-111111?style=flat-square)](https://alptugharun.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alptuğ%20Harun-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alptugharun)
+[![Toolkit Stars](https://img.shields.io/github/stars/alptugharun/ai-social-media-toolkit?style=flat-square&label=Toolkit%20Stars)](https://github.com/alptugharun/ai-social-media-toolkit/stargazers)
+[![Toolkit Forks](https://img.shields.io/github/forks/alptugharun/ai-social-media-toolkit?style=flat-square&label=Forks)](https://github.com/alptugharun/ai-social-media-toolkit/forks)
 
-Dijital dünyada içerik üretimi, marka iletişimi ve görünürlük stratejileri üzerine çalışıyorum. Yapay zekâyı yalnızca içerik üretmek için değil; araştırma, otomasyon, yaratıcı süreçler ve yeni nesil dijital projeler geliştirmek için kullanıyorum.
+## Featured Open Source
 
-Güncel çalışmalarımda sosyal medya stratejisi, yapay zekâ destekli içerik üretimi, dijital pazarlama, otomasyon sistemleri ve yaratıcı teknoloji projelerine odaklanıyorum.
+### AI Social Media Toolkit
 
-## Odak Alanlarım
+An installable **Creator Operations / Agent Skills toolkit** for turning research signals into platform-native content systems.
 
-- Sosyal Medya Stratejisi
-- Dijital İçerik Üretimi
-- Yapay Zekâ Destekli Üretim
-- Dijital Pazarlama
-- Marka Stratejisi
-- İçerik Otomasyonu
-- Yaratıcı Teknolojiler
-- Web ve Dijital Projeler
-- Pinterest ve Görsel Arama
-- Google Maps ve Yerel Dijital Görünürlük
+It combines:
 
-## Projeler
+- trend and outlier research
+- Reels / short-form production
+- Pinterest visual-search workflows
+- content repurposing
+- influencer-fit analysis
+- brand-voice humanization
+- evidence-aware content scoring
+- digital visibility systems
+
+**Install the Agent Skills:**
+
+```bash
+npx skills add alptugharun/ai-social-media-toolkit
+```
+
+Designed for portable Agent Skills workflows across **Claude Code, OpenAI Codex, Gemini CLI, Grok, Cursor and compatible runtimes**.
+
+[Explore AI Social Media Toolkit →](https://github.com/alptugharun/ai-social-media-toolkit)
+
+[![Validate Agent Skills](https://github.com/alptugharun/ai-social-media-toolkit/actions/workflows/validate-skills.yml/badge.svg)](https://github.com/alptugharun/ai-social-media-toolkit/actions/workflows/validate-skills.yml)
+
+## What I Work On
+
+- **Social Media Strategy** — positioning, content systems, platform adaptation and organic visibility
+- **AI-Assisted Content** — research, ideation, prompt systems, production and human review
+- **Creator Operations** — repeatable workflows for research → creation → publishing → measurement
+- **Pinterest & Visual Search** — trend research, keyword architecture and traffic systems
+- **Reels / Short-Form Video** — hooks, production systems, visual direction and repurposing
+- **Influencer Marketing** — creator fit, campaign structure and performance thinking
+- **Creative Automation** — AI agents, workflow automation and approval systems
+- **Digital Visibility** — websites, Google presence, authority signals and discoverability
+
+## Projects
 
 ### ADYA Creative
-Yapay zekâ destekli yeni nesil reklam ve yaratıcı iletişim ajansı.
+
+AI-powered creative agency focused on:
 
 **Social Media • Influencer Marketing • Creative Design • Digital Marketing • AI Content • Brand Strategy**
 
 ### Yeşil Dijital Akademi
-Çevre, sürdürülebilir yaşam ve teknolojiyi anlaşılır, uygulanabilir ve yaratıcı içeriklerle buluşturan dijital eğitim ve iletişim projesi.
 
-## Kullandığım Araçlar
-ChatGPT • Claude • Gemini • Grok • DeepSeek • NotebookLM • Cursor • Codex • Canva • Adobe Photoshop • Adobe Illustrator • CapCut • DaVinci Resolve • ElevenLabs • Zapier
+A digital education and communication initiative combining:
 
-## Öne Çıkan Kaynak
+**Environment • Sustainability • Technology • Artificial Intelligence • Education**
 
-### AI Social Media Toolkit
+## AI & Creative Stack
 
-Sosyal medya stratejisi, yapay zekâ destekli içerik üretimi, Canva, Pinterest, Reels, prompt engineering, içerik otomasyonu ve dijital görünürlük üzerine geliştirdiğim pratik framework, workflow ve kaynak koleksiyonu.
+**AI**  
+ChatGPT • Claude • Gemini • Grok • DeepSeek • NotebookLM
 
-**Version 1:** 9 kapsamlı kaynak ve uygulama sistemi.
+**Agent / Automation**  
+Cursor • Codex • Zapier • Agent Skills
 
-🔗 [AI Social Media Toolkit'i GitHub'da incele](https://github.com/alptugharun/ai-social-media-toolkit)
+**Creative**  
+Canva • Adobe Photoshop • Adobe Illustrator • CapCut • DaVinci Resolve • ElevenLabs
 
-🌐 [alptugharun.com](https://alptugharun.com)
+## Connect
 
-## Bağlantılar
-
-🌐 [alptugharun.com](https://alptugharun.com)
-
-📸 [Instagram](https://instagram.com/alptug.harun)
-
-💼 [LinkedIn](https://www.linkedin.com/in/alptugharun)
-
-🎨 [Behance](https://www.behance.net/alptugharun)
-
+🌐 [alptugharun.com](https://alptugharun.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/alptugharun)  
+📸 [Instagram](https://instagram.com/alptug.harun)  
+🎨 [Behance](https://www.behance.net/alptugharun)  
 𝕏 [X](https://x.com/alptugharun1)
 
 ---
 
-**Alptuğ Harun — Sosyal Medya • Yapay Zekâ • Dijital İçerik • Yaratıcı Teknolojiler**
+**Alptuğ Harun — Social Media • AI Creator Systems • Digital Content • Creative Technology**
