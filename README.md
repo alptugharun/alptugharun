@@ -45,10 +45,13 @@ Designed for portable Agent Skills workflows across **Claude Code, OpenAI Codex,
 
 ### Working proof
 
-The toolkit includes runnable, dependency-free creator-research utilities alongside the Agent Skills:
+The toolkit includes runnable, dependency-free research utilities alongside portable Agent Skills:
 
 - [Social Outlier Analyzer](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/tools/outlier_score.py) — compares post performance against a creator's own median baseline.
 - [Signal-to-Content Opportunity Scorer](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/tools/signal2content_score.py) — ranks research signals with a transparent scoring heuristic.
+- [Places Aggregate Market Scanner](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/tools/places_market_scan.py) — turns official Places Aggregate API results into local-market intelligence without building a scraped Maps database.
+- [Maps Opportunity Radar Analyzer](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/tools/maps_opportunity_radar.py) — scores Maps and local-intelligence opportunities by demand, supply, strategic fit and compliance feasibility.
+- [Commercial Opportunity Radar Analyzer](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/tools/commercial_opportunity_radar.py) — evaluates buyer clarity, recurring-use potential, proof, distribution and monetization paths without treating stars as revenue.
 - [Comment Intelligence](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/skills/comment-intelligence/SKILL.md) — turns recurring audience questions, objections and language into testable content opportunities.
 - [GitHub Opportunity Radar](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/skills/github-opportunity-radar/SKILL.md) — researches demand signals and Agent Skill gaps with an evidence-aware workflow.
 
