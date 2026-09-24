@@ -49,6 +49,7 @@ The toolkit includes runnable, dependency-free research utilities alongside port
 
 - [Social Outlier Analyzer](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/tools/outlier_score.py) — compares post performance against a creator's own median baseline.
 - [Signal-to-Content Opportunity Scorer](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/tools/signal2content_score.py) — ranks research signals with a transparent scoring heuristic.
+- [Pinterest Visibility Radar Analyzer](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/tools/pinterest_growth_radar.py) — combines official Pinterest trend data when accessible with automation-ecosystem signals without inventing trend numbers.
 - [Places Aggregate Market Scanner](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/tools/places_market_scan.py) — turns official Places Aggregate API results into local-market intelligence without building a scraped Maps database.
 - [Maps Opportunity Radar Analyzer](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/tools/maps_opportunity_radar.py) — scores Maps and local-intelligence opportunities by demand, supply, strategic fit and compliance feasibility.
 - [Commercial Opportunity Radar Analyzer](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/tools/commercial_opportunity_radar.py) — evaluates buyer clarity, recurring-use potential, proof, distribution and monetization paths without treating stars as revenue.
