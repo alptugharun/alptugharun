@@ -22,6 +22,7 @@ An installable **Creator Operations / Agent Skills toolkit** for turning researc
 It combines:
 
 - trend and outlier research
+- comment intelligence and audience-language mining
 - Reels / short-form production
 - Pinterest visual-search workflows
 - content repurposing
@@ -41,6 +42,15 @@ Designed for portable Agent Skills workflows across **Claude Code, OpenAI Codex,
 [Explore AI Social Media Toolkit →](https://github.com/alptugharun/ai-social-media-toolkit)
 
 [![Validate Agent Skills](https://github.com/alptugharun/ai-social-media-toolkit/actions/workflows/validate-skills.yml/badge.svg)](https://github.com/alptugharun/ai-social-media-toolkit/actions/workflows/validate-skills.yml)
+
+### Working proof
+
+The toolkit includes runnable, dependency-free creator-research utilities alongside the Agent Skills:
+
+- [Social Outlier Analyzer](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/tools/outlier_score.py) — compares post performance against a creator's own median baseline.
+- [Signal-to-Content Opportunity Scorer](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/tools/signal2content_score.py) — ranks research signals with a transparent scoring heuristic.
+- [Comment Intelligence](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/skills/comment-intelligence/SKILL.md) — turns recurring audience questions, objections and language into testable content opportunities.
+- [GitHub Opportunity Radar](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/skills/github-opportunity-radar/SKILL.md) — researches demand signals and Agent Skill gaps with an evidence-aware workflow.
 
 ## What I Work On
 
