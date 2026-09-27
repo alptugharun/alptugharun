@@ -4,20 +4,37 @@
 
 📍 Antalya, Türkiye
 
-I build practical systems at the intersection of **AI, social media, creator workflows, visual search, digital marketing and creative technology**.
+I build **AI-native creator operating systems** at the intersection of social media, automation, visual search, digital marketing and creative technology.
 
-Sosyal medya stratejisi, yapay zekâ destekli içerik üretimi, dijital görünürlük ve yaratıcı teknoloji projeleri geliştiriyorum.
+**Signal → Research → Strategy → Content → Distribution → Measurement → Commercial Opportunity**
+
+Sosyal medya stratejisi, yapay zekâ destekli içerik üretimi, dijital görünürlük ve yaratıcı teknoloji projelerini tek seferlik içerikler yerine tekrar kullanılabilir sistemlere dönüştürüyorum.
 
 [![Website](https://img.shields.io/badge/Website-alptugharun.com-111111?style=flat-square)](https://alptugharun.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alptuğ%20Harun-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alptugharun)
 [![Toolkit Stars](https://img.shields.io/github/stars/alptugharun/ai-social-media-toolkit?style=flat-square&label=Toolkit%20Stars)](https://github.com/alptugharun/ai-social-media-toolkit/stargazers)
 [![Toolkit Forks](https://img.shields.io/github/forks/alptugharun/ai-social-media-toolkit?style=flat-square&label=Forks)](https://github.com/alptugharun/ai-social-media-toolkit/forks)
 
+## Live System at a Glance
+
+The main open-source system currently includes:
+
+- **17 portable Agent Skills**
+- **10 runnable Python tools**
+- **8 GitHub Actions workflows**
+- **5 live intelligence / opportunity radar issues**
+- automated **GitHub, Maps, commercial, Pinterest and traction/focus** research
+- an event-driven **Self-Healing Automation Guardian**
+- cross-agent installation for **Claude Code, OpenAI Codex, Gemini CLI, Grok, Cursor and compatible runtimes**
+- evidence, policy and monetization gates designed to prevent hype from becoming product decisions
+
+The project is deliberately treated as an **early-stage open-source system**: internal activity is not presented as user adoption, and new features are expected to earn proof before they become separate products.
+
 ## Featured Open Source
 
 ### AI Social Media Toolkit
 
-An installable **Creator Operations / Agent Skills toolkit** for turning research signals into platform-native content systems.
+An installable **AI-native Creator Operations / Agent Skills system** for turning research signals into platform-native content, automation and commercial workflows.
 
 It combines:
 
