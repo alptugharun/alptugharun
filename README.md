@@ -1,32 +1,42 @@
 # Hi, I'm Alptuğ Harun.
 
-**Social Media Specialist · Digital Content Creator · Creative Strategist**  
-Antalya, Türkiye
+**AI workflows, prompts, assistants & automation**  
+Social Media Specialist · Digital Content Creator · Creative Strategist · Antalya, Türkiye
 
-I help creators and brands turn ideas into content people can understand, use and remember. My work brings together social media strategy, visual storytelling and practical uses of AI — especially Canva, Pinterest and short-form video.
+I explore how AI becomes useful in everyday work — from a better prompt to a custom assistant, a reusable skill or a working automation. I work across **ChatGPT, Claude, Grok and Gemini**, sharing practical resources for research, writing, learning, building tools and creating content.
 
-I founded **ADYA Creative** and co-founded **Yeşil Dijital Akademi** with **Ahu Nur Şahin Harun**, bringing environmental education and technology into the same conversation.
+## What you'll find here
 
-## What I'm building
+| Area | My focus |
+| --- | --- |
+| **Prompts & context** | Clear instructions, reusable prompt systems, examples and output evaluation |
+| **GPTs & assistants** | ChatGPT GPT workflows, Claude Projects, Gemini Gems and portable assistant blueprints |
+| **Skills, plugins & apps** | Agent Skills, connected tools, MCP and practical integration patterns |
+| **Bots & automation** | API-based assistants, ChatGPT/OpenAI and Grok/xAI workflows, testing and human approval |
+| **AI learning & experiments** | Hands-on guides, small reproducible demos and documented limitations |
+| **Creative applications** | Canva + AI, Pinterest, Reels and social-media systems — one application area, not the whole scope |
 
-**[AI Social Media Toolkit](https://github.com/alptugharun/ai-social-media-toolkit)**  
-Reusable workflows for researching content, planning Reels and Pinterest assets, refining brand voice and reviewing performance. Includes agent skills, practical guides and small tools you can run yourself.
+## Published work
 
-[Try the two-minute demo](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/examples/TWO-MINUTE-DEMO.md) · [Browse the creator materials](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/downloads) · [Read the usage guide](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/docs/HOW-TO-USE-EVERYTHING.md)
+**[AI Social Media Toolkit](https://github.com/alptugharun/ai-social-media-toolkit)** — my current public repository of agent skills, prompt resources, practical guides and runnable tools. The name reflects where the project started; my work and the resource library extend beyond social media.
 
-## Find my work
+[Browse the materials](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/downloads) · [Run the demo](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/examples/TWO-MINUTE-DEMO.md) · [Read the usage guide](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/docs/HOW-TO-USE-EVERYTHING.md) · [Releases](https://github.com/alptugharun/ai-social-media-toolkit/releases)
 
-[Website](https://alptugharun.com) · [LinkedIn](https://www.linkedin.com/in/alptugharun/) · [Instagram](https://www.instagram.com/alptug.harun/) · [Behance](https://www.behance.net/alptugharun/)
+Each resource should explain what it does, how to use it and how to check the result. A blueprint is labelled as a blueprint; a tested tool includes its test evidence. Platform accounts, API access and deployment are separate from downloading a file.
 
-Working on a similar content problem? Try one workflow and tell me where it helps — or where it gets in your way.
+## Beyond GitHub
+
+I founded **ADYA Creative** and co-founded **Yeşil Dijital Akademi** with **Ahu Nur Şahin Harun**, bringing environmental education, sustainable living and technology together.
+
+[Website](https://alptugharun.com) · [LinkedIn](https://www.linkedin.com/in/alptugharun/) · [Instagram](https://www.instagram.com/alptug.harun/) · [Behance](https://www.behance.net/alptugharun/) · [X](https://x.com/alptugharun1)
 
 <details>
 <summary>Türkçe</summary>
 
-Antalya merkezli sosyal medya uzmanı ve dijital içerik üreticisiyim. Markalar ve içerik üreticileri için sosyal medya stratejisi, görsel anlatım ve yapay zekâ destekli içerik sistemleri üzerinde çalışıyorum.
+Yapay zekâyı yalnızca içerik üretimi için değil; araştırma, yazma, öğrenme, asistan geliştirme ve işleri otomatikleştirme için kullanıyorum. ChatGPT, Claude, Grok ve Gemini; GPT'ler, prompt sistemleri, eklentiler, bağlı uygulamalar, Agent Skills, botlar ve otomasyonlar çalışma alanımın parçaları.
 
-ADYA Creative'in kurucusuyum. Ahu Nur Şahin Harun ile birlikte kurduğumuz Yeşil Dijital Akademi'de çevre, sürdürülebilir yaşam ve teknolojiyi anlaşılır içeriklerle buluşturuyoruz.
+Canva, Pinterest, Reels ve sosyal medya bu geniş alanın uygulamalarından biri. Burada yayımlanan her kaynakta kullanım adımlarının, örneklerin ve sınırların anlaşılır olmasını önemsiyorum.
 
-Burada Canva, Pinterest, Reels ve içerik üretimi için geliştirdiğim yöntemleri, kullanım rehberlerini ve araçları paylaşıyorum.
+ADYA Creative'in kurucusu, Ahu Nur Şahin Harun ile Yeşil Dijital Akademi'nin kurucu ortağıyım.
 
 </details>
