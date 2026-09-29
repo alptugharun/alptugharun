@@ -13,6 +13,7 @@ I prefer systems you can **inspect, install, test and improve**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alptuğ%20Harun-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alptugharun)
 [![Toolkit Stars](https://img.shields.io/github/stars/alptugharun/ai-social-media-toolkit?style=flat-square&label=AI%20Toolkit%20Stars)](https://github.com/alptugharun/ai-social-media-toolkit/stargazers)
 [![Toolkit Forks](https://img.shields.io/github/forks/alptugharun/ai-social-media-toolkit?style=flat-square&label=Forks)](https://github.com/alptugharun/ai-social-media-toolkit/forks)
+[![Toolkit Release](https://img.shields.io/github/v/release/alptugharun/ai-social-media-toolkit?include_prereleases&style=flat-square&label=Alpha)](https://github.com/alptugharun/ai-social-media-toolkit/releases/tag/v0.1.0-alpha.1)
 
 ---
 
@@ -32,7 +33,19 @@ It currently includes:
 - validation, evidence rules and a bounded **Self-Healing Automation Guardian**
 - free non-developer starter materials for prompts, assistants, automations, Pinterest, Reels and Canva + AI
 
-### Try it
+### See proof in two minutes
+
+No API key or third-party Python package is required:
+
+```bash
+git clone https://github.com/alptugharun/ai-social-media-toolkit.git
+cd ai-social-media-toolkit
+python tools/two_minute_demo.py
+```
+
+The bundled demo data is synthetic and clearly labeled. You can also [preview the expected output](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/examples/TWO-MINUTE-DEMO-OUTPUT.md) before cloning.
+
+### Install the Agent Skills
 
 ```bash
 npx skills add alptugharun/ai-social-media-toolkit
@@ -51,6 +64,7 @@ npx skills use alptugharun/ai-social-media-toolkit --skill signal-to-content
 ```
 
 **→ [Explore AI Social Media Toolkit](https://github.com/alptugharun/ai-social-media-toolkit)**  
+**→ [First public alpha: v0.1.0-alpha.1](https://github.com/alptugharun/ai-social-media-toolkit/releases/tag/v0.1.0-alpha.1)**  
 **→ [Open the free Creator Materials Hub](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/downloads)**  
 **→ [Start with the Quick-Start Guide](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md)**
 
@@ -175,6 +189,8 @@ Found something useful?
 - 🔀 Send a focused pull request if you can improve an existing system
 
 I care more about **real reuse and useful feedback** than vanity metrics.
+
+Current milestone: **[First 10 real users](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/docs/FIRST-10-USERS.md)**. If you test one workflow, the most useful thing you can report is the first point where you got confused, blocked or wanted a deeper version.
 
 ---
 
