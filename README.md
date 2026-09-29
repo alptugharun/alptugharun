@@ -20,7 +20,7 @@ I explore how AI becomes useful in everyday work — from a better prompt to a c
 
 **[AI Social Media Toolkit](https://github.com/alptugharun/ai-social-media-toolkit)** — my current public repository of agent skills, prompt resources, practical guides and runnable tools. The name reflects where the project started; my work and the resource library extend beyond social media.
 
-[Browse the materials](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/downloads) · [Run the demo](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/examples/TWO-MINUTE-DEMO.md) · [Read the usage guide](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/docs/HOW-TO-USE-EVERYTHING.md) · [Releases](https://github.com/alptugharun/ai-social-media-toolkit/releases)
+[AI Ecosystem Hub](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/AI-ECOSYSTEM-HUB.md) · [Prompt Library](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/prompts) · [Assistants](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/assistants) · [Bot Starters](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/bots) · [Learning Paths](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/learning)
 
 Each resource should explain what it does, how to use it and how to check the result. A blueprint is labelled as a blueprint; a tested tool includes its test evidence. Platform accounts, API access and deployment are separate from downloading a file.
 
