@@ -16,13 +16,15 @@ I explore how AI becomes useful in everyday work — from a better prompt to a c
 | **AI learning & experiments** | Hands-on guides, small reproducible demos and documented limitations |
 | **Creative applications** | Canva + AI, Pinterest, Reels and social-media systems — one application area, not the whole scope |
 
-## Published work
+## Start here
 
-**[AI Social Media Toolkit](https://github.com/alptugharun/ai-social-media-toolkit)** — my current public repository of agent skills, prompt resources, practical guides and runnable tools. The name reflects where the project started; my work and the resource library extend beyond social media.
+**[AI Social Media Toolkit](https://github.com/alptugharun/ai-social-media-toolkit)** is my main open-source project: practical AI workflows, prompts, assistant blueprints, Agent Skills, MCP/integration patterns, bot starters and automation recipes.
 
-[AI Ecosystem Hub](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/AI-ECOSYSTEM-HUB.md) · [Prompt Library](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/prompts) · [Assistants](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/assistants) · [Bot Starters](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/bots) · [Learning Paths](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/learning)
+- **Want a result quickly?** Start with [10 Quick Wins](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/QUICK-WINS.md).
+- **Using ChatGPT, Claude, Gemini or Grok?** Use the [AI Ecosystem Hub](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/AI-ECOSYSTEM-HUB.md).
+- **Want something runnable?** Try the [AI Workbench](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/downloads/AI-WORKBENCH-GUIDE.md) or the [two-minute demo](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/examples/TWO-MINUTE-DEMO.md).
 
-Each resource should explain what it does, how to use it and how to check the result. A blueprint is labelled as a blueprint; a tested tool includes its test evidence. Platform accounts, API access and deployment are separate from downloading a file.
+I label blueprints, offline-tested tools and runtime evidence separately. The goal is not a giant feature list; it is reusable work that explains **what it does, how to try it, what can fail and how to verify the result**.
 
 ## Beyond GitHub
 
