@@ -1,53 +1,76 @@
-# Hi, I'm Alptuğ Harun.
+# Alptuğ Harun — AI Workflows, MCP & Creator Systems
 
-**AI workflows, prompts, assistants & automation**  
-Social Media Specialist · Digital Content Creator · Creative Strategist · Antalya, Türkiye
+**AI Workflow Builder · Social Media Specialist · Digital Content Creator · Antalya, Türkiye**
 
-I explore how AI becomes useful in everyday work — from a better prompt to a custom assistant, a reusable skill, a read-only MCP tool or a working automation. I work across **ChatGPT, Claude, Grok and Gemini**, sharing practical resources for research, writing, learning, building tools and creating content.
+I build practical AI systems that move from **prompt → assistant → Agent Skill → MCP/API → automation** without hiding the limits between those layers.
 
-My current open-source focus is simple: make AI workflows **runnable, testable and honest about their limits**, then improve the parts real users actually touch.
-
-[![AI Social Media Toolkit CI](https://github.com/alptugharun/ai-social-media-toolkit/actions/workflows/validate-skills.yml/badge.svg)](https://github.com/alptugharun/ai-social-media-toolkit/actions/workflows/validate-skills.yml)
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/alptugharun/ai-social-media-toolkit/badge)](https://scorecard.dev/viewer/?uri=github.com/alptugharun/ai-social-media-toolkit)
-[![M8ven Score](https://m8ven.ai/badge/mcp/alptugharun-ai-social-media-toolkit-adv58l?v=03bebb9d62df5457451770e8ba62ec55)](https://m8ven.ai/mcp/alptugharun-ai-social-media-toolkit-adv58l?s=readme)
-
-## What you'll find here
-
-| Area | My focus |
-| --- | --- |
-| **Prompts & context** | Clear instructions, reusable prompt systems, examples and output evaluation |
-| **GPTs & assistants** | ChatGPT GPT workflows, Claude Projects, Gemini Gems and portable assistant blueprints |
-| **Skills, plugins & apps** | Agent Skills, connected tools, MCP and practical integration patterns |
-| **Bots & automation** | API-based assistants, ChatGPT/OpenAI and Grok/xAI workflows, testing and human approval |
-| **AI learning & experiments** | Hands-on guides, small reproducible demos and documented limitations |
-| **Creative applications** | Canva + AI, Pinterest, Reels and social-media systems — one application area, not the whole scope |
-
-## Start here
-
-**[AI Social Media Toolkit](https://github.com/alptugharun/ai-social-media-toolkit)** is my main open-source project: practical AI workflows, prompts, assistant blueprints, Agent Skills, MCP/integration patterns, bot starters and automation recipes.
-
-- **Want a result quickly?** Start with [10 Quick Wins](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/QUICK-WINS.md).
-- **Using ChatGPT, Claude, Gemini or Grok?** Use the [AI Ecosystem Hub](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/AI-ECOSYSTEM-HUB.md).
-- **Want something runnable?** Try the [AI Workbench](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/downloads/AI-WORKBENCH-GUIDE.md) or the [two-minute demo](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/examples/TWO-MINUTE-DEMO.md).
-
-- **Want to test the MCP work in a real host?** The standalone package has a local quick start, and [independent runtime verification is explicitly wanted](https://github.com/alptugharun/ai-social-media-toolkit/issues/110).
-- **Want to contribute?** Reproducible bugs, host verification, examples and small focused PRs are more useful than vanity engagement.
-
-I label blueprints, offline-tested tools and runtime evidence separately. The goal is not a giant feature list; it is reusable work that explains **what it does, how to try it, what can fail and how to verify the result**.
-
-## Beyond GitHub
-
-I founded **ADYA Creative** and co-founded **Yeşil Dijital Akademi** with **Ahu Nur Şahin Harun**, bringing environmental education, sustainable living and technology together.
+My main open-source work focuses on **testable AI workflows, creator operations, MCP trust, cross-provider portability and evidence-backed automation** for ChatGPT/OpenAI, Claude/Anthropic, Gemini and Grok/xAI.
 
 [Website](https://alptugharun.com) · [LinkedIn](https://www.linkedin.com/in/alptugharun/) · [Instagram](https://www.instagram.com/alptug.harun/) · [Behance](https://www.behance.net/alptugharun/) · [X](https://x.com/alptugharun1)
+
+[![AI Social Media Toolkit CI](https://github.com/alptugharun/ai-social-media-toolkit/actions/workflows/validate-skills.yml/badge.svg)](https://github.com/alptugharun/ai-social-media-toolkit/actions/workflows/validate-skills.yml)
+[![M8ven Score](https://m8ven.ai/badge/mcp/alptugharun-ai-social-media-toolkit-adv58l?v=03bebb9d62df5457451770e8ba62ec55)](https://m8ven.ai/mcp/alptugharun-ai-social-media-toolkit-adv58l?s=readme)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/alptugharun/ai-social-media-toolkit/badge)](https://scorecard.dev/viewer/?uri=github.com/alptugharun/ai-social-media-toolkit)
+
+## Start with the project that proves the work
+
+### [AI Social Media Toolkit](https://github.com/alptugharun/ai-social-media-toolkit)
+
+An open-source AI workflow library with:
+
+- reusable prompt systems and assistant blueprints;
+- installable Agent Skills;
+- a dependency-free, read-only MCP server;
+- API/bot starter patterns;
+- creator workflows for Canva, Pinterest, Reels and digital visibility;
+- CI, CodeQL, OpenSSF Scorecard, M8ven verification and explicit runtime-evidence rules.
+
+**Fast paths:** [Start Here](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) · [10 Quick Wins](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/QUICK-WINS.md) · [AI Ecosystem Hub](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/AI-ECOSYSTEM-HUB.md) · [Standalone MCP](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/packages/ai-workbench-mcp/README.md)
+
+## What I build
+
+| Area | Current focus |
+| --- | --- |
+| **MCP & tool trust** | Read-only tools, explicit annotations, bounded inputs, test coverage, package/release verification |
+| **Agent Skills** | Reusable workflows with narrow jobs, examples, safety boundaries and install paths |
+| **Cross-provider AI** | Portable assistant jobs for ChatGPT, Claude, Gemini and Grok |
+| **Automation** | Approval-gated research, monitoring, recovery and publishing patterns |
+| **Creator operations** | Canva + AI, Pinterest, Reels, brand voice, repurposing and social-media systems |
+| **Open-source proof** | CI, reproducible demos, runtime evidence, security posture and honest limitation labels |
+
+## Try something in two minutes
+
+Clone the toolkit and run the offline first-use check:
+
+```bash
+python tools/first_run_check.py
+```
+
+It does not require an API key, social login or paid model call. A passing result proves the local prompt/assistant catalog, dry-run provider path, Agent Skill installer flow and creator demo can run from the checked-out repository.
+
+Want to test the MCP work in a real host? See the [independent runtime verification issue](https://github.com/alptugharun/ai-social-media-toolkit/issues/110). Reproducible success **or failure** is useful evidence.
+
+## How I evaluate AI work
+
+I separate:
+
+**blueprint** → **offline tested** → **provider/runtime verified** → **production evidence**
+
+A file existing in a repository is not proof that a hosted assistant, plugin, automation or external integration works. I prefer small tests, explicit permissions, reproducible failures and clear recovery paths over inflated feature lists.
+
+## Creator & brand work
+
+Outside GitHub, I work on AI-supported social media, digital visibility and creator systems through **ADYA Creative** and **Yeşil Dijital Akademi**.
+
+GitHub is the technical/open-source layer of that work: inspectable workflows, tooling, verification and reusable systems.
 
 <details>
 <summary>Türkçe</summary>
 
-Yapay zekâyı yalnızca içerik üretimi için değil; araştırma, yazma, öğrenme, asistan geliştirme ve işleri otomatikleştirme için kullanıyorum. ChatGPT, Claude, Grok ve Gemini; GPT'ler, prompt sistemleri, eklentiler, bağlı uygulamalar, Agent Skills, botlar ve otomasyonlar çalışma alanımın parçaları.
+Yapay zekâ tarafında odağım yalnızca içerik üretmek değil; **çalışan, test edilebilir ve sınırları açık sistemler** kurmak.
 
-Canva, Pinterest, Reels ve sosyal medya bu geniş alanın uygulamalarından biri. Burada yayımlanan her kaynakta kullanım adımlarının, örneklerin ve sınırların anlaşılır olmasını önemsiyorum.
+ChatGPT, Claude, Gemini ve Grok için prompt ve asistan yapılarından başlayıp Agent Skills, MCP, API botları ve otomasyonlara kadar ilerleyen iş akışları geliştiriyorum. Canva, Pinterest, Reels ve sosyal medya ise bu sistemlerin önemli uygulama alanlarından biri.
 
-ADYA Creative'in kurucusu, Ahu Nur Şahin Harun ile Yeşil Dijital Akademi'nin kurucu ortağıyım.
+Ana açık kaynak projem **AI Social Media Toolkit**. Projede hızlı ilk sonuç, güvenlik, doğrulanabilir testler, açık kullanım adımları ve gerçek kullanıcı kanıtını özellik sayısından daha önemli görüyorum.
 
 </details>
