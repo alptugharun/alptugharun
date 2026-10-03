@@ -50,7 +50,7 @@ A practical AI workbench for people who want more than prompt collections.
 It includes:
 
 - reusable prompt systems and assistant blueprints;
-- **17 Agent Skills** for creator operations, research and digital visibility;
+- **18 Agent Skills** for creator operations, research, digital visibility and plugin/MCP architecture;
 - a dependency-free, read-only **MCP server**;
 - API/bot starter patterns;
 - CI, CodeQL, OpenSSF Scorecard and M8ven verification;
@@ -60,7 +60,7 @@ It includes:
 [![M8ven Score](https://m8ven.ai/badge/mcp/alptugharun-ai-social-media-toolkit-adv58l?v=03bebb9d62df5457451770e8ba62ec55)](https://m8ven.ai/mcp/alptugharun-ai-social-media-toolkit-adv58l?s=readme)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/alptugharun/ai-social-media-toolkit/badge)](https://scorecard.dev/viewer/?uri=github.com/alptugharun/ai-social-media-toolkit)
 
-**Start here:** [2-minute proof](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) · [10 Quick Wins](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/QUICK-WINS.md) · [AI Ecosystem Hub](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/AI-ECOSYSTEM-HUB.md) · [Standalone MCP](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/packages/ai-workbench-mcp/README.md)
+**Start here:** [2-minute proof](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) · [10 Quick Wins](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/QUICK-WINS.md) · [AI Ecosystem Hub](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/AI-ECOSYSTEM-HUB.md) · [AI Builder Path](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/learning/AI-BUILDER-PATH.md) · [Standalone MCP](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/packages/ai-workbench-mcp/README.md)
 
 ## Standalone projects
 
@@ -70,7 +70,7 @@ Three parts of the toolkit are now focused public repositories of their own.
 
 [![CI](https://github.com/alptugharun/ai-workbench-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/alptugharun/ai-workbench-mcp/actions/workflows/ci.yml)
 
-A dependency-free, read-only MCP server for reusable prompts and assistant blueprints. The public surface is deliberately small: `list_prompts`, `render_prompt` and `get_assistant`. Version `0.1.0a1` is published on PyPI and active in the official MCP Registry; exact-version stdio verification is recorded separately from real-host compatibility.
+A dependency-free, read-only MCP server for reusable prompts and assistant blueprints. The public surface is deliberately small: `list_prompts`, `render_prompt` and `get_assistant`. Version `0.1.0a1` is published on PyPI and active in the official MCP Registry. Exact-version stdio verification and a maintainer-run Cursor 3.20.21 host test are recorded separately; independent external host verification remains a separate adoption goal.
 
 ### 🛡️ [Agent Skill Safety Auditor](https://github.com/alptugharun/agent-skill-safety-auditor)
 
