@@ -62,18 +62,31 @@ Sadece prompt koleksiyonu olmayan, pratik bir AI workbench.
 
 **Buradan başla:** [2 dakikalık doğrulama](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) · [10 Quick Wins](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/QUICK-WINS.md) · [AI Ecosystem Hub](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/AI-ECOSYSTEM-HUB.md) · [Standalone MCP](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/packages/ai-workbench-mcp/README.md)
 
-## Sırada bağımsız repo olacak çalışmalar
+## Bağımsız projeler
 
-Bunlar şu anda ana toolkit içinde çalışıyor; ayrı repo haline gelmeden önce sağlamlaştırılıyor:
+Toolkit içindeki üç çalışma artık kendi odaklı public reposuna sahip.
 
-| Proje hattı | Ne yapıyor? | Mevcut kanıt |
-| --- | --- | --- |
-| **AI Workbench MCP** | Prompt ve asistan kataloğunu MCP üzerinden salt-okunur sunar | wheel build, stdio handshake, named tool testleri |
-| **Agent Skill Safety Auditor** | Üçüncü taraf skill'leri kurulumdan önce inceler | yeniden kullanılabilir skill + güvenlik checklist'i |
-| **Creator Research Radars** | GitHub, Maps ve Pinterest için kanıta dayalı fırsat araştırır | zamanlanmış workflow'lar + testler |
-| **Human-first Content QA** | Gerçekleri bozmadan jenerik AI dokusunu azaltır | brand-voice workflow + kabul kontrolleri |
+### 🔌 [AI Workbench MCP](https://github.com/alptugharun/ai-workbench-mcp)
 
-**20 boş repo açmak yerine 4 işe yarayan repo çıkarmayı tercih ederim.**
+[![CI](https://github.com/alptugharun/ai-workbench-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/alptugharun/ai-workbench-mcp/actions/workflows/ci.yml)
+
+Yeniden kullanılabilir prompt ve asistan blueprint'lerini sunan bağımlılıksız, salt-okunur MCP server. Public yüzeyi özellikle küçük tutuldu: `list_prompts`, `render_prompt` ve `get_assistant`.
+
+### 🛡️ [Agent Skill Safety Auditor](https://github.com/alptugharun/agent-skill-safety-auditor)
+
+[![CI](https://github.com/alptugharun/agent-skill-safety-auditor/actions/workflows/ci.yml/badge.svg)](https://github.com/alptugharun/agent-skill-safety-auditor/actions/workflows/ci.yml)
+
+Agent Skill'leri kurmadan önce offline inceler. Remote shell pipe, process erişimi, environment okuma ve install hook gibi sinyalleri görünür hale getirir; son kararı regex'e değil insana bırakır.
+
+### 📈 [Creator Signal Lab](https://github.com/alptugharun/creator-signal-lab)
+
+[![CI](https://github.com/alptugharun/creator-signal-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/alptugharun/creator-signal-lab/actions/workflows/ci.yml)
+
+İki şeffaf creator araştırma aracı: içerik fırsatlarını önceliklendiren scorer ve kendi baseline'ına göre sosyal gönderi outlier'larını bulan scorer. Scraping yok, gizli AI puanı yok, virallik vaadi yok.
+
+Ana toolkit içinde kalan iki güçlü hat: **Creator Research Radars** ve **Human-first Content QA**. Bunları da ancak bağımsız kullanım senaryosu entegre kalmaktan daha güçlü hale gelirse ayıracağım.
+
+**Hâlâ 20 boş repo yerine az sayıda gerçekten kullanılan repo tercih ederim.**
 
 ## İki dakikada bir şey dene
 
