@@ -70,7 +70,7 @@ Toolkit içindeki üç çalışma artık kendi odaklı public reposuna sahip.
 
 [![CI](https://github.com/alptugharun/ai-workbench-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/alptugharun/ai-workbench-mcp/actions/workflows/ci.yml)
 
-Yeniden kullanılabilir prompt ve asistan blueprint'lerini sunan bağımlılıksız, salt-okunur MCP server. Public yüzeyi özellikle küçük tutuldu: `list_prompts`, `render_prompt` ve `get_assistant`.
+Yeniden kullanılabilir prompt ve asistan blueprint'lerini sunan bağımlılıksız, salt-okunur MCP server. Public yüzeyi özellikle küçük tutuldu: `list_prompts`, `render_prompt` ve `get_assistant`. `0.1.0a1` sürümü PyPI'de yayınlandı ve resmi MCP Registry'de aktif; exact-version stdio doğrulaması gerçek host uyumluluğundan ayrı tutuluyor.
 
 ### 🛡️ [Agent Skill Safety Auditor](https://github.com/alptugharun/agent-skill-safety-auditor)
 
