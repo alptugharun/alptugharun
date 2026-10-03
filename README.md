@@ -70,7 +70,7 @@ Three parts of the toolkit are now focused public repositories of their own.
 
 [![CI](https://github.com/alptugharun/ai-workbench-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/alptugharun/ai-workbench-mcp/actions/workflows/ci.yml)
 
-A dependency-free, read-only MCP server for reusable prompts and assistant blueprints. The public surface is deliberately small: `list_prompts`, `render_prompt` and `get_assistant`.
+A dependency-free, read-only MCP server for reusable prompts and assistant blueprints. The public surface is deliberately small: `list_prompts`, `render_prompt` and `get_assistant`. Version `0.1.0a1` is published on PyPI and active in the official MCP Registry; exact-version stdio verification is recorded separately from real-host compatibility.
 
 ### 🛡️ [Agent Skill Safety Auditor](https://github.com/alptugharun/agent-skill-safety-auditor)
 
