@@ -62,18 +62,31 @@ It includes:
 
 **Start here:** [2-minute proof](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) · [10 Quick Wins](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/QUICK-WINS.md) · [AI Ecosystem Hub](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/AI-ECOSYSTEM-HUB.md) · [Standalone MCP](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/packages/ai-workbench-mcp/README.md)
 
-## What is becoming standalone next
+## Standalone projects
 
-These are already working inside the toolkit and are being hardened before they become separate repositories:
+Three parts of the toolkit are now focused public repositories of their own.
 
-| Project lane | What it does | Current proof |
-| --- | --- | --- |
-| **AI Workbench MCP** | Read-only prompt & assistant catalog over MCP | wheel build, stdio handshake, named tool tests |
-| **Agent Skill Safety Auditor** | Reviews third-party skills before installation | reusable skill + security checklist |
-| **Creator Research Radars** | Finds evidence-backed GitHub, Maps and Pinterest opportunities | scheduled workflows + tests |
-| **Human-first Content QA** | Reduces generic AI texture without inventing facts | brand-voice workflow + acceptance checks |
+### 🔌 [AI Workbench MCP](https://github.com/alptugharun/ai-workbench-mcp)
 
-I would rather split out **four useful projects** than publish twenty empty repositories.
+[![CI](https://github.com/alptugharun/ai-workbench-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/alptugharun/ai-workbench-mcp/actions/workflows/ci.yml)
+
+A dependency-free, read-only MCP server for reusable prompts and assistant blueprints. The public surface is deliberately small: `list_prompts`, `render_prompt` and `get_assistant`.
+
+### 🛡️ [Agent Skill Safety Auditor](https://github.com/alptugharun/agent-skill-safety-auditor)
+
+[![CI](https://github.com/alptugharun/agent-skill-safety-auditor/actions/workflows/ci.yml/badge.svg)](https://github.com/alptugharun/agent-skill-safety-auditor/actions/workflows/ci.yml)
+
+An offline pre-install review tool for Agent Skills. It looks for permission and execution signals such as remote shell pipes, process access, environment reads and install hooks — then leaves the final judgment to a human.
+
+### 📈 [Creator Signal Lab](https://github.com/alptugharun/creator-signal-lab)
+
+[![CI](https://github.com/alptugharun/creator-signal-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/alptugharun/creator-signal-lab/actions/workflows/ci.yml)
+
+Two transparent creator-research scorers: one for content-opportunity prioritization and one for social-post outliers against your own baseline. No scraping, no hidden AI score, no virality promise.
+
+Still inside the main toolkit: **Creator Research Radars** and **Human-first Content QA**. I will split those only if the independent use case becomes stronger than keeping them integrated.
+
+I would still rather maintain **a few useful repositories** than publish twenty empty ones.
 
 ## Try something in two minutes
 
