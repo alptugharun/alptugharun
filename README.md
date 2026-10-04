@@ -10,6 +10,7 @@
 I like turning vague AI ideas into something you can **run, test, explain and reuse**.
 
 [![Website](https://img.shields.io/badge/alptugharun.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alptugharun.com)
+[![Practical AI Workflows](https://img.shields.io/badge/Practical_AI_Workflows-0F172A?style=for-the-badge&logo=hashnode&logoColor=white)](https://alptugharun.hashnode.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alptugharun/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alptug.harun/)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/alptugharun/)
@@ -40,6 +41,12 @@ The part I care about most is the boring but important bit: **does it run, what 
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva">
 <img src="https://img.shields.io/badge/Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest">
 </p>
+
+## Practical AI writing
+
+I publish longer technical walkthroughs at **[Practical AI Workflows](https://alptugharun.hashnode.dev)** — focused on prompt engineering, Agent Skills, MCP, plugins, automation, testing and the failure cases behind working AI systems.
+
+**Start with:** [Prompt → Assistant → Agent Skill → MCP → Plugin: Which Layer Do You Actually Need?](https://alptugharun.hashnode.dev/prompt-assistant-agent-skill-mcp-plugin-guide)
 
 ## Featured open-source work
 
