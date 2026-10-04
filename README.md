@@ -67,7 +67,7 @@ It includes:
 [![M8ven Score](https://m8ven.ai/badge/mcp/alptugharun-ai-social-media-toolkit-adv58l?v=03bebb9d62df5457451770e8ba62ec55)](https://m8ven.ai/mcp/alptugharun-ai-social-media-toolkit-adv58l?s=readme)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/alptugharun/ai-social-media-toolkit/badge)](https://scorecard.dev/viewer/?uri=github.com/alptugharun/ai-social-media-toolkit)
 
-**Start here:** [2-minute proof](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) · [10 Quick Wins](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/QUICK-WINS.md) · [AI Ecosystem Hub](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/AI-ECOSYSTEM-HUB.md) · [AI Builder Path](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/learning/AI-BUILDER-PATH.md) · [Standalone MCP](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/packages/ai-workbench-mcp/README.md)
+**Start here:** [2-minute proof](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) · [10 Quick Wins](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/QUICK-WINS.md) · [Verified AI Team Stack](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/resources/AI-TEAM-STACK.md) · [AI Builder Path](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/learning/AI-BUILDER-PATH.md) · [Standalone MCP](https://github.com/alptugharun/ai-workbench-mcp)
 
 ## Standalone projects
 
@@ -77,7 +77,7 @@ Three parts of the toolkit are now focused public repositories of their own.
 
 [![CI](https://github.com/alptugharun/ai-workbench-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/alptugharun/ai-workbench-mcp/actions/workflows/ci.yml)
 
-A dependency-free, read-only MCP server for reusable prompts and assistant blueprints. The public surface is deliberately small: `list_prompts`, `render_prompt` and `get_assistant`. Version `0.1.0a1` is published on PyPI and active in the official MCP Registry. Exact-version stdio verification and a maintainer-run Cursor 3.20.21 host test are recorded separately; independent external host verification remains a separate adoption goal.
+A dependency-free, read-only MCP server for reusable prompts and assistant blueprints. The public surface is deliberately small: `list_prompts`, `render_prompt` and `get_assistant`. Version `0.1.0a2` is published on PyPI and active/latest in the official MCP Registry. It adds doctor-first local diagnostics without widening the three-tool read-only surface. Exact-version package/stdio evidence and the recorded maintainer-run Cursor 3.20.21 host test remain separate from independent external host verification.
 
 ### 🛡️ [Agent Skill Safety Auditor](https://github.com/alptugharun/agent-skill-safety-auditor)
 
