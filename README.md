@@ -19,6 +19,18 @@ I like turning vague AI ideas into something you can **run, test, explain and re
 
 ---
 
+## Start here
+
+| If you want to… | Go here | What you get |
+| --- | --- | --- |
+| **prove something works in ~2 minutes** | [AI Social Media Toolkit → Start Here](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) | dependency-free local proof + next steps |
+| **use a deliberately small MCP server** | [AI Workbench MCP](https://github.com/alptugharun/ai-workbench-mcp) | 3 read-only tools, PyPI + Registry + host evidence |
+| **choose the right AI architecture** | [Practical AI Workflows](https://alptugharun.hashnode.dev/prompt-assistant-agent-skill-mcp-plugin-guide) | prompt → assistant → Agent Skill → MCP → plugin decision guide |
+| **build and break each layer yourself** | [AI Builder Lab](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/learning/AI-BUILDER-LAB.md) | failure cases + regression gates |
+| **work with me on an AI workflow** | [alptugharun.com](https://alptugharun.com) | implementation, creator systems and workflow consulting |
+
+**Proof before promise:** local tests, CI, runtime evidence and external adoption are labeled separately.
+
 ## What I actually build
 
 My open-source work follows a simple path:
@@ -29,18 +41,6 @@ I work across **ChatGPT/OpenAI, Claude/Anthropic, Gemini and Grok/xAI**, with cr
 
 The part I care about most is the boring but important bit: **does it run, what can fail, what permissions does it need, and can another person reproduce the result?**
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-<img src="https://img.shields.io/badge/MCP-111827?style=flat-square" alt="MCP">
-<img src="https://img.shields.io/badge/Agent_Skills-6D28D9?style=flat-square" alt="Agent Skills">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-<img src="https://img.shields.io/badge/Anthropic-D97706?style=flat-square" alt="Anthropic">
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
-<img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white" alt="Grok">
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva">
-<img src="https://img.shields.io/badge/Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest">
-</p>
 
 ## Practical AI writing
 
@@ -117,7 +117,19 @@ That distinction matters. A README saying something works is not the same as a r
 
 If you want to help test the standalone MCP package, the current evidence task is here:
 
-→ [Independent MCP runtime verification](https://github.com/alptugharun/ai-social-media-toolkit/issues/110)
+→ [Independent MCP runtime verification](https://github.com/alptugharun/ai-workbench-mcp/issues/5)
+
+## Work with me
+
+The open-source repos are the proof layer. Paid work is for the part that removes setup and implementation time:
+
+- AI workflow and tool-stack audits;
+- MCP / Agent Skill / assistant implementation;
+- creator research and content-production systems;
+- automation design with explicit approval and recovery paths;
+- private customization, onboarding and documentation.
+
+**Start with the public proof. If the workflow fits your problem, continue at [alptugharun.com](https://alptugharun.com).**
 
 ## Creator & brand work
 
