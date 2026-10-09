@@ -16,14 +16,14 @@
 
 | 01 / KEŞFEDİYORUM | 02 / GELİŞTİRİYORUM | 03 / İÇERİK ÜRETİYORUM |
 | :--- | :--- | :--- |
-| [**2 dakikalık test →**](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) | [**MCP sunucusu →**](https://github.com/alptugharun/ai-workbench-mcp) | [**Frame Studio beta →**](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/tools/creator-frame-studio) |
+| [**2 dakikalık test →**](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) | [**MCP sunucusu →**](https://github.com/alptugharun/ai-workbench-mcp) | [**⚡ Canlı Frame Studio'yu aç →**](https://alptugharun.github.io/ai-social-media-toolkit/) |
 | Yerel testte ücretli model veya giriş gerekmez | Salt okunur prompt ve asistan araçları | Yerel sosyal medya görsel kadrajlama |
 
 ## ✦ ÜRÜN MERKEZİ
 
 <table><tr><td width="50%" valign="top"><h3>⚡ AI SOCIAL MEDIA TOOLKIT</h3><p><strong>From idea to a working workflow.</strong></p><p>Agent Skills, assistants, creator workflows, reproducible first run.</p><a href="https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md">▶ Run first proof</a> · <a href="https://github.com/alptugharun/ai-social-media-toolkit">Source</a></td><td width="50%" valign="top"><h3>🔌 AI WORKBENCH MCP</h3><p><strong>Small surface. Real utility.</strong></p><p>Three read-only tools for prompts and assistant blueprints.</p><a href="https://github.com/alptugharun/ai-workbench-mcp">▶ Setup &amp; diagnostics</a> · <a href="https://github.com/alptugharun/ai-workbench-mcp/issues/5">Host testing</a></td></tr><tr><td valign="top"><h3>🛡️ SKILL SAFETY AUDITOR</h3><p><strong>Inspect before you install.</strong></p><p>Offline, human-reviewable findings. Not a security certification.</p><a href="https://github.com/alptugharun/agent-skill-safety-auditor">▶ Try the scanner</a></td><td valign="top"><h3>📡 CREATOR SIGNAL LAB</h3><p><strong>Less guessing. More signal.</strong></p><p>Explainable CSV scoring for content opportunities and outlier posts.</p><a href="https://github.com/alptugharun/creator-signal-lab">▶ Explore examples</a></td></tr></table>
 
-> **Yayımlanan beta:** [Creator Frame Studio v0.3](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/tools/creator-frame-studio) artık `main` dalında. Hızlı metin stilleri, kılavuz profilleri ve deterministik yayın-öncesi kontrol kartı içerir. Yerel çalışır; model çağrısı, otomatik paylaşım veya sahte kalite puanı yoktur.
+> **Yayımlanan beta:** [Creator Frame Studio v0.3](https://alptugharun.github.io/ai-social-media-toolkit/) artık `main` dalında. Hızlı metin stilleri, kılavuz profilleri ve deterministik yayın-öncesi kontrol kartı içerir. Yerel çalışır; model çağrısı, otomatik paylaşım veya sahte kalite puanı yoktur.
 
 ## ⌘ ÖNCE TEST, SONRA GÜVEN
 
