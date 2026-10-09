@@ -1,151 +1,93 @@
 <div align="center">
 
-<a href="./README.md"><img src="https://img.shields.io/badge/English-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="English"></a>
-<a href="./README_TR.md"><img src="https://img.shields.io/badge/Türkçe-E30A17?style=for-the-badge&logo=readme&logoColor=white" alt="Türkçe"></a>
+<a href="./README.md">English</a> · <a href="./README_TR.md">Türkçe</a>
 
-# Alptuğ Harun
+# ALPTUĞ HARUN
+### AI workflow builder · Open-source tools · Creator systems
 
-### Social Media Specialist · AI Workflow Builder · Digital Content Creator
+**I turn AI experiments into tools people can install, inspect, and actually use.**
 
-I like turning vague AI ideas into something you can **run, test, explain and reuse**.
+[Explore projects](#choose-your-entry-point) · [Run a 2-minute proof](#try-it-in-two-minutes) · [Read the engineering approach](#proof-not-promise) · [Collaborate](#work-with-me)
 
-[![Website](https://img.shields.io/badge/alptugharun.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alptugharun.com)
-[![Practical AI Workflows](https://img.shields.io/badge/Practical_AI_Workflows-0F172A?style=for-the-badge&logo=hashnode&logoColor=white)](https://alptugharun.hashnode.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alptugharun/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alptug.harun/)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/alptugharun/)
+[![Website](https://img.shields.io/badge/Website-alptugharun.com-0B1220?style=for-the-badge)](https://alptugharun.com)
+[![Articles](https://img.shields.io/badge/Practical_AI-Workflows-365CF5?style=for-the-badge)](https://alptugharun.hashnode.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alptugharun/)
 
 </div>
 
 ---
 
-## Start here
+## Not another wall of badges
 
-| If you want to… | Go here | What you get |
-| --- | --- | --- |
-| **prove something works in ~2 minutes** | [AI Social Media Toolkit → Start Here](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) | dependency-free local proof + next steps |
-| **use a deliberately small MCP server** | [AI Workbench MCP](https://github.com/alptugharun/ai-workbench-mcp) | 3 read-only tools, PyPI + Registry + host evidence |
-| **choose the right AI architecture** | [Practical AI Workflows](https://alptugharun.hashnode.dev/prompt-assistant-agent-skill-mcp-plugin-guide) | prompt → assistant → Agent Skill → MCP → plugin decision guide |
-| **build and break each layer yourself** | [AI Builder Lab](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/learning/AI-BUILDER-LAB.md) | failure cases + regression gates |
-| **work with me on an AI workflow** | [alptugharun.com](https://alptugharun.com) | implementation, creator systems and workflow consulting |
+**A useful GitHub profile should behave like a product landing page:** one clear promise, working entry points, reproducible evidence, and honest limits.
 
-**Proof before promise:** local tests, CI, runtime evidence and external adoption are labeled separately.
+```text
+YOUR PROBLEM                 MY BUILD PATH                      YOUR EVIDENCE
+"I need a usable tool"  →    prompt → skill → MCP → automation   →    demo + tests + limits
+"I need creator insight"→    input → scoring → human review       →    explainable results
+"Is this safe to run?"  →    permissions → static checks          →    findings + review
+```
 
-## What I actually build
+## Choose your entry point
 
-My open-source work follows a simple path:
+| You want to… | Start here | In plain language |
+| :--- | :--- | :--- |
+| **Test an AI workflow without an API key** | [AI Social Media Toolkit](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) | Local check, prompts, assistant blueprints, Agent Skills and creator workflows |
+| **Add three read-only MCP tools** | [AI Workbench MCP](https://github.com/alptugharun/ai-workbench-mcp) | List prompts, render a prompt, fetch an assistant blueprint |
+| **Inspect an Agent Skill before installing** | [Agent Skill Safety Auditor](https://github.com/alptugharun/agent-skill-safety-auditor) | Offline static review with human-readable risk findings |
+| **Prioritize content ideas from your own data** | [Creator Signal Lab](https://github.com/alptugharun/creator-signal-lab) | Transparent CSV-based opportunity and post-outlier scoring |
+| **Explore a local visual editor** | [Creator Frame Studio beta](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/tools/creator-frame-studio) | Reframe and export creator graphics; no model or automatic publishing |
 
-**prompt → reusable assistant → Agent Skill → MCP/API → automation → verification**
+> **Release boundary:** beta features and open pull requests are not presented as shipped, production-verified features. See the repositories for current implementation and test status.
 
-I work across **ChatGPT/OpenAI, Claude/Anthropic, Gemini and Grok/xAI**, with creator workflows for Canva, Pinterest, Reels, social-media research and digital visibility.
+## Try it in two minutes
 
-The part I care about most is the boring but important bit: **does it run, what can fail, what permissions does it need, and can another person reproduce the result?**
-
-
-## Practical AI writing
-
-I publish longer technical walkthroughs at **[Practical AI Workflows](https://alptugharun.hashnode.dev)** — focused on prompt engineering, Agent Skills, MCP, plugins, automation, testing and the failure cases behind working AI systems.
-
-**Start with:** [Prompt → Assistant → Agent Skill → MCP → Plugin: Which Layer Do You Actually Need?](https://alptugharun.hashnode.dev/prompt-assistant-agent-skill-mcp-plugin-guide)
-
-## Featured open-source work
-
-### 🚀 [AI Social Media Toolkit](https://github.com/alptugharun/ai-social-media-toolkit)
-
-A practical AI workbench for people who want more than prompt collections.
-
-It includes:
-
-- reusable prompt systems and assistant blueprints;
-- **18 Agent Skills** for creator operations, research, digital visibility and plugin/MCP architecture;
-- a dependency-free, read-only **MCP server**;
-- API/bot starter patterns;
-- CI, CodeQL, OpenSSF Scorecard and M8ven verification;
-- reproducible demos, runtime-evidence rules and explicit failure paths.
-
-[![CI](https://github.com/alptugharun/ai-social-media-toolkit/actions/workflows/validate-skills.yml/badge.svg)](https://github.com/alptugharun/ai-social-media-toolkit/actions/workflows/validate-skills.yml)
-[![M8ven Score](https://m8ven.ai/badge/mcp/alptugharun-ai-social-media-toolkit-adv58l?v=03bebb9d62df5457451770e8ba62ec55)](https://m8ven.ai/mcp/alptugharun-ai-social-media-toolkit-adv58l?s=readme)
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/alptugharun/ai-social-media-toolkit/badge)](https://scorecard.dev/viewer/?uri=github.com/alptugharun/ai-social-media-toolkit)
-
-**Start here:** [2-minute proof](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) · [10 Quick Wins](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/QUICK-WINS.md) · [Verified AI Team Stack](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/resources/AI-TEAM-STACK.md) · [AI Builder Path](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/learning/AI-BUILDER-PATH.md) · [Standalone MCP](https://github.com/alptugharun/ai-workbench-mcp)
-
-## Standalone projects
-
-Three parts of the toolkit are now focused public repositories of their own.
-
-### 🔌 [AI Workbench MCP](https://github.com/alptugharun/ai-workbench-mcp)
-
-[![CI](https://github.com/alptugharun/ai-workbench-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/alptugharun/ai-workbench-mcp/actions/workflows/ci.yml)
-
-A dependency-free, read-only MCP server for reusable prompts and assistant blueprints. The public surface is deliberately small: `list_prompts`, `render_prompt` and `get_assistant`. Version `0.1.0a2` is published on PyPI and active/latest in the official MCP Registry. It adds doctor-first local diagnostics without widening the three-tool read-only surface. Exact-version package/stdio evidence and the recorded maintainer-run Cursor 3.20.21 host test remain separate from independent external host verification.
-
-### 🛡️ [Agent Skill Safety Auditor](https://github.com/alptugharun/agent-skill-safety-auditor)
-
-[![CI](https://github.com/alptugharun/agent-skill-safety-auditor/actions/workflows/ci.yml/badge.svg)](https://github.com/alptugharun/agent-skill-safety-auditor/actions/workflows/ci.yml)
-
-An offline pre-install review tool for Agent Skills. It looks for permission and execution signals such as remote shell pipes, process access, environment reads and install hooks — then leaves the final judgment to a human.
-
-### 📈 [Creator Signal Lab](https://github.com/alptugharun/creator-signal-lab)
-
-[![CI](https://github.com/alptugharun/creator-signal-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/alptugharun/creator-signal-lab/actions/workflows/ci.yml)
-
-Two transparent creator-research scorers: one for content-opportunity prioritization and one for social-post outliers against your own baseline. No scraping, no hidden AI score, no virality promise.
-
-Still inside the main toolkit: **Creator Research Radars** and **Human-first Content QA**. I will split those only if the independent use case becomes stronger than keeping them integrated.
-
-I would still rather maintain **a few useful repositories** than publish twenty empty ones.
-
-## Try something in two minutes
-
-Clone the main toolkit and run:
+Run the toolkit's no-key local verification:
 
 ```bash
+git clone https://github.com/alptugharun/ai-social-media-toolkit.git
+cd ai-social-media-toolkit
 python tools/first_run_check.py
 ```
 
-No API key, social login or paid model call is required for that check.
+This checks the **local checkout**, not external integrations, real platform accounts, or all AI providers. [Troubleshooting and next steps →](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md)
 
-A passing run verifies the local catalog, dry-run provider path, Agent Skill installer flow and creator demo from the checked-out repository.
+### Featured builds
 
-## How I label proof
+| Product | Proof and transparency |
+| :--- | :--- |
+| [AI Social Media Toolkit](https://github.com/alptugharun/ai-social-media-toolkit) | [CI](https://github.com/alptugharun/ai-social-media-toolkit/actions/workflows/validate-skills.yml) · [Security](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/SECURITY.md) · [How to contribute](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/CONTRIBUTING.md) |
+| [AI Workbench MCP](https://github.com/alptugharun/ai-workbench-mcp) | [CI](https://github.com/alptugharun/ai-workbench-mcp/actions/workflows/ci.yml) · [Independent host verification requested](https://github.com/alptugharun/ai-workbench-mcp/issues/5) |
+| [Agent Skill Safety Auditor](https://github.com/alptugharun/agent-skill-safety-auditor) | [CI](https://github.com/alptugharun/agent-skill-safety-auditor/actions/workflows/ci.yml) · Offline heuristic scanner; **not** a safety certificate |
+| [Creator Signal Lab](https://github.com/alptugharun/creator-signal-lab) | [CI](https://github.com/alptugharun/creator-signal-lab/actions/workflows/ci.yml) · No scraping, AI forecasts or virality guarantees |
 
-I keep these states separate:
+## Proof, not promise
 
-**Blueprint** → **Offline tested** → **Runtime verified** → **Production evidence**
+I distinguish **design blueprint → offline-tested → host/runtime-verified → real-world adoption**. A green local test is not independent third-party verification. A clever screenshot is not an implemented feature. A security warning is not a maliciousness verdict.
 
-That distinction matters. A README saying something works is not the same as a real host running it.
+What I optimize for: narrow permissions · deterministic first run · explicit input contracts · accessible documentation · useful error messages · failure reproduction · human approval before publishing.
 
-If you want to help test the standalone MCP package, the current evidence task is here:
+## Best GitHub profile README ideas — the principles behind this one
 
-→ [Independent MCP runtime verification](https://github.com/alptugharun/ai-workbench-mcp/issues/5)
+If you found this page while researching **GitHub profile README ideas**, here is the approach I use:
+
+1. **Put the user outcome above the tech stack.** A newcomer should know where to click immediately.
+2. **Show a runnable example, not a wall of trophies.** Tell readers exactly what the test proves.
+3. **Keep claims auditable.** Link to source code, workflows, limitations and reproducible reports.
+4. **Make the page work without external widgets.** Text and links are the core experience; badges are optional.
+5. **Treat accessibility and bilingual navigation as product features.** Avoid flashing animations and unreadable hero art.
+6. **Invite bug reports as much as stars.** Real usage and actionable issues beat vanity metrics.
+
+This is a practical example, not a claim to be the world's best GitHub profile or a promise of Google ranking.
 
 ## Work with me
 
-The open-source repos are the proof layer. Paid work is for the part that removes setup and implementation time:
+I build and review AI-assisted creator systems, MCP/Agent Skill workflows, research tooling and approval-aware automation. My open-source projects are the technical proof layer; private implementation and workflow consulting live at [alptugharun.com](https://alptugharun.com).
 
-- AI workflow and tool-stack audits;
-- MCP / Agent Skill / assistant implementation;
-- creator research and content-production systems;
-- automation design with explicit approval and recovery paths;
-- private customization, onboarding and documentation.
-
-**Start with the public proof. If the workflow fits your problem, continue at [alptugharun.com](https://alptugharun.com).**
-
-## Creator & brand work
-
-GitHub is the technical/open-source side of my work.
-
-Outside GitHub I work on AI-supported social media, digital visibility and creator systems through **ADYA Creative** and **Yeşil Dijital Akademi**.
-
----
+Creator brands: **ADYA Creative** · **Yeşil Dijital Akademi**. Writing: [Practical AI Workflows](https://alptugharun.hashnode.dev). Design work: [Behance](https://www.behance.net/alptugharun/). Social: [Instagram](https://www.instagram.com/alptug.harun/).
 
 <div align="center">
 
-### GitHub at a glance
-
-<img src="https://github-readme-stats.vercel.app/api?username=alptugharun&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="Alptuğ Harun GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alptugharun&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages">
-
-**Build less noise. Ship more proof.**
+**BUILD SOMETHING USEFUL. SHOW THE PROOF. SHARE THE LIMITS.**
 
 </div>
