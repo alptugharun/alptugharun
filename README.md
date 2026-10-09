@@ -1,48 +1,31 @@
 <div align="center">
 
-<a href="./README.md">English</a> · <a href="./README_TR.md">Türkçe</a>
+![Alptuğ Harun — I Build What's Next: AI Agents, MCP, Creator Tools, Automation](assets/future-operator-hero.svg)
 
-# ALPTUĞ HARUN
-### AI workflow builder · Open-source tools · Creator systems
+**AI-NATIVE CREATOR SYSTEMS · OPEN SOURCE · PROOF-FIRST ENGINEERING**
 
-**I turn AI experiments into tools people can install, inspect, and actually use.**
-
-[Explore projects](#choose-your-entry-point) · [Run a 2-minute proof](#try-it-in-two-minutes) · [Read the engineering approach](#proof-not-promise) · [Collaborate](#work-with-me)
-
-[![Website](https://img.shields.io/badge/Website-alptugharun.com-0B1220?style=for-the-badge)](https://alptugharun.com)
-[![Articles](https://img.shields.io/badge/Practical_AI-Workflows-365CF5?style=for-the-badge)](https://alptugharun.hashnode.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alptugharun/)
+[ENGLISH](README.md) · [TÜRKÇE](README_TR.md)
 
 </div>
 
----
+## 🚀 THE SHORT VERSION
 
-## Not another wall of badges
+I build **practical AI tools for creators, builders and brands**, from Agent Skills and MCP servers to visual production workflows. The goal isn't to look futuristic and stop there. **Run it. Inspect it. Break it. Improve it.**
 
-**A useful GitHub profile should behave like a product landing page:** one clear promise, working entry points, reproducible evidence, and honest limits.
+### ⌁ PICK YOUR PORTAL
 
-```text
-YOUR PROBLEM                 MY BUILD PATH                      YOUR EVIDENCE
-"I need a usable tool"  →    prompt → skill → MCP → automation   →    demo + tests + limits
-"I need creator insight"→    input → scoring → human review       →    explainable results
-"Is this safe to run?"  →    permissions → static checks          →    findings + review
-```
-
-## Choose your entry point
-
-| You want to… | Start here | In plain language |
+| 01 / JUST EXPLORING | 02 / READY TO BUILD | 03 / NEED CREATOR TOOLS |
 | :--- | :--- | :--- |
-| **Test an AI workflow without an API key** | [AI Social Media Toolkit](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) | Local check, prompts, assistant blueprints, Agent Skills and creator workflows |
-| **Add three read-only MCP tools** | [AI Workbench MCP](https://github.com/alptugharun/ai-workbench-mcp) | List prompts, render a prompt, fetch an assistant blueprint |
-| **Inspect an Agent Skill before installing** | [Agent Skill Safety Auditor](https://github.com/alptugharun/agent-skill-safety-auditor) | Offline static review with human-readable risk findings |
-| **Prioritize content ideas from your own data** | [Creator Signal Lab](https://github.com/alptugharun/creator-signal-lab) | Transparent CSV-based opportunity and post-outlier scoring |
-| **Explore a local visual editor** | [Creator Frame Studio beta](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/tools/creator-frame-studio) | Reframe and export creator graphics; no model or automatic publishing |
+| [**2-minute first run →**](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) | [**MCP server →**](https://github.com/alptugharun/ai-workbench-mcp) | [**Frame Studio beta →**](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/tools/creator-frame-studio) |
+| No paid model or login for the local check | Read-only prompt + assistant tools | Local-first social-image framing and export |
 
-> **Release boundary:** beta features and open pull requests are not presented as shipped, production-verified features. See the repositories for current implementation and test status.
+## ✦ THE BUILD DECK
 
-## Try it in two minutes
+<table><tr><td width="50%" valign="top"><h3>⚡ AI SOCIAL MEDIA TOOLKIT</h3><p><strong>From idea to a working workflow.</strong></p><p>Agent Skills, assistants, creator workflows, reproducible first run.</p><a href="https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md">▶ Run first proof</a> · <a href="https://github.com/alptugharun/ai-social-media-toolkit">Source</a></td><td width="50%" valign="top"><h3>🔌 AI WORKBENCH MCP</h3><p><strong>Small surface. Real utility.</strong></p><p>Three read-only tools for prompts and assistant blueprints.</p><a href="https://github.com/alptugharun/ai-workbench-mcp">▶ Setup &amp; diagnostics</a> · <a href="https://github.com/alptugharun/ai-workbench-mcp/issues/5">Host testing</a></td></tr><tr><td valign="top"><h3>🛡️ SKILL SAFETY AUDITOR</h3><p><strong>Inspect before you install.</strong></p><p>Offline, human-reviewable findings. Not a security certification.</p><a href="https://github.com/alptugharun/agent-skill-safety-auditor">▶ Try the scanner</a></td><td valign="top"><h3>📡 CREATOR SIGNAL LAB</h3><p><strong>Less guessing. More signal.</strong></p><p>Explainable CSV scoring for content opportunities and outlier posts.</p><a href="https://github.com/alptugharun/creator-signal-lab">▶ Explore examples</a></td></tr></table>
 
-Run the toolkit's no-key local verification:
+> **Experimental lane:** [Creator Frame Studio beta](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/tools/creator-frame-studio) is an image framing/export editor. New features proposed in [PR #167](https://github.com/alptugharun/ai-social-media-toolkit/pull/167) are **not shipped until merged and verified**.
+
+## ⌘ TEST BEFORE YOU TRUST
 
 ```bash
 git clone https://github.com/alptugharun/ai-social-media-toolkit.git
@@ -50,44 +33,32 @@ cd ai-social-media-toolkit
 python tools/first_run_check.py
 ```
 
-This checks the **local checkout**, not external integrations, real platform accounts, or all AI providers. [Troubleshooting and next steps →](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md)
+This is a **local verification**, not proof of compatibility with every AI platform or production system. Start with [troubleshooting](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md), review [security notes](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/SECURITY.md), and report reproducible bugs.
 
-### Featured builds
+**PROOF LADDER:** Blueprint → Offline tested → Real host verified → Independent adoption evidence.
 
-| Product | Proof and transparency |
-| :--- | :--- |
-| [AI Social Media Toolkit](https://github.com/alptugharun/ai-social-media-toolkit) | [CI](https://github.com/alptugharun/ai-social-media-toolkit/actions/workflows/validate-skills.yml) · [Security](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/SECURITY.md) · [How to contribute](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/CONTRIBUTING.md) |
-| [AI Workbench MCP](https://github.com/alptugharun/ai-workbench-mcp) | [CI](https://github.com/alptugharun/ai-workbench-mcp/actions/workflows/ci.yml) · [Independent host verification requested](https://github.com/alptugharun/ai-workbench-mcp/issues/5) |
-| [Agent Skill Safety Auditor](https://github.com/alptugharun/agent-skill-safety-auditor) | [CI](https://github.com/alptugharun/agent-skill-safety-auditor/actions/workflows/ci.yml) · Offline heuristic scanner; **not** a safety certificate |
-| [Creator Signal Lab](https://github.com/alptugharun/creator-signal-lab) | [CI](https://github.com/alptugharun/creator-signal-lab/actions/workflows/ci.yml) · No scraping, AI forecasts or virality guarantees |
+## 🧪 CURRENTLY IN THE LAB
 
-## Proof, not promise
+- **Creator Frame Studio v0.3 proposal:** [feature PR #167](https://github.com/alptugharun/ai-social-media-toolkit/pull/167), not a released guarantee.
+- **MCP config preflight proposal:** [feature PR #151](https://github.com/alptugharun/ai-social-media-toolkit/pull/151), not a security certificate.
+- **Creator research:** offline scorers are not live trend data, scraper access, or a virality predictor.
 
-I distinguish **design blueprint → offline-tested → host/runtime-verified → real-world adoption**. A green local test is not independent third-party verification. A clever screenshot is not an implemented feature. A security warning is not a maliciousness verdict.
+## 🌐 WHY THIS GITHUB PROFILE LOOKS DIFFERENT
 
-What I optimize for: narrow permissions · deterministic first run · explicit input contracts · accessible documentation · useful error messages · failure reproduction · human approval before publishing.
+Searching for **best GitHub profile README ideas** or **professional GitHub README examples**? This is my working answer: an original self-hosted SVG hero, bilingual navigation, outcome-led project cards, runnable examples, accessible text alternatives, and transparent evidence links. No third-party visit counters, false rankings or dependency on dynamic widgets.
 
-## Best GitHub profile README ideas — the principles behind this one
+**Design principle:** Signature visuals open the door. Working products make people stay. Source, tests and limitations earn trust.
 
-If you found this page while researching **GitHub profile README ideas**, here is the approach I use:
+## ↗ OUTSIDE THE TERMINAL
 
-1. **Put the user outcome above the tech stack.** A newcomer should know where to click immediately.
-2. **Show a runnable example, not a wall of trophies.** Tell readers exactly what the test proves.
-3. **Keep claims auditable.** Link to source code, workflows, limitations and reproducible reports.
-4. **Make the page work without external widgets.** Text and links are the core experience; badges are optional.
-5. **Treat accessibility and bilingual navigation as product features.** Avoid flashing animations and unreadable hero art.
-6. **Invite bug reports as much as stars.** Real usage and actionable issues beat vanity metrics.
+[Website / work together](https://alptugharun.com) · [AI articles](https://alptugharun.hashnode.dev) · [LinkedIn](https://www.linkedin.com/in/alptugharun/) · [Behance](https://www.behance.net/alptugharun/) · [Instagram](https://www.instagram.com/alptug.harun/)
 
-This is a practical example, not a claim to be the world's best GitHub profile or a promise of Google ranking.
-
-## Work with me
-
-I build and review AI-assisted creator systems, MCP/Agent Skill workflows, research tooling and approval-aware automation. My open-source projects are the technical proof layer; private implementation and workflow consulting live at [alptugharun.com](https://alptugharun.com).
-
-Creator brands: **ADYA Creative** · **Yeşil Dijital Akademi**. Writing: [Practical AI Workflows](https://alptugharun.hashnode.dev). Design work: [Behance](https://www.behance.net/alptugharun/). Social: [Instagram](https://www.instagram.com/alptug.harun/).
+Creator strategy and brand work: **ADYA Creative** and **Yeşil Dijital Akademi**.
 
 <div align="center">
 
-**BUILD SOMETHING USEFUL. SHOW THE PROOF. SHARE THE LIMITS.**
+### NO EMPTY HYPE. JUST BETTER SYSTEMS.
+
+*Build something useful. Show the proof. Share the limits.*
 
 </div>
