@@ -49,6 +49,9 @@ Bu işlem **yerel doğrulama** sağlar; tüm AI platformlarının veya üretim s
 
 **Tasarım ilkesi:** Özgün görünüm dikkat çeker. Kullanışlı araçlar insanları tutar. Test ve sınırlamalar güven oluşturur.
 
+
+**Yol haritasına katkı ver:** [💡 Fikir öner veya yapıcı eleştiri bırak](https://github.com/alptugharun/ai-social-media-toolkit/issues/169) · [Topluluk tartışmaları](https://github.com/alptugharun/ai-social-media-toolkit/discussions). Güvenlik açıklarını herkese açık paylaşma.
+
 ## ↗ GITHUB DIŞINDA
 
 [Web sitesi / iş birliği](https://alptugharun.com) · [AI yazılarım](https://alptugharun.hashnode.dev) · [LinkedIn](https://www.linkedin.com/in/alptugharun/) · [Behance](https://www.behance.net/alptugharun/) · [Instagram](https://www.instagram.com/alptug.harun/)
