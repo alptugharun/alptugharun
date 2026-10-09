@@ -23,7 +23,7 @@ I build **practical AI tools for creators, builders and brands**, from Agent Ski
 
 <table><tr><td width="50%" valign="top"><h3>⚡ AI SOCIAL MEDIA TOOLKIT</h3><p><strong>From idea to a working workflow.</strong></p><p>Agent Skills, assistants, creator workflows, reproducible first run.</p><a href="https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md">▶ Run first proof</a> · <a href="https://github.com/alptugharun/ai-social-media-toolkit">Source</a></td><td width="50%" valign="top"><h3>🔌 AI WORKBENCH MCP</h3><p><strong>Small surface. Real utility.</strong></p><p>Three read-only tools for prompts and assistant blueprints.</p><a href="https://github.com/alptugharun/ai-workbench-mcp">▶ Setup &amp; diagnostics</a> · <a href="https://github.com/alptugharun/ai-workbench-mcp/issues/5">Host testing</a></td></tr><tr><td valign="top"><h3>🛡️ SKILL SAFETY AUDITOR</h3><p><strong>Inspect before you install.</strong></p><p>Offline, human-reviewable findings. Not a security certification.</p><a href="https://github.com/alptugharun/agent-skill-safety-auditor">▶ Try the scanner</a></td><td valign="top"><h3>📡 CREATOR SIGNAL LAB</h3><p><strong>Less guessing. More signal.</strong></p><p>Explainable CSV scoring for content opportunities and outlier posts.</p><a href="https://github.com/alptugharun/creator-signal-lab">▶ Explore examples</a></td></tr></table>
 
-> **Experimental lane:** [Creator Frame Studio beta](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/tools/creator-frame-studio) is an image framing/export editor. New features proposed in [PR #167](https://github.com/alptugharun/ai-social-media-toolkit/pull/167) are **not shipped until merged and verified**.
+> **Shipped beta:** [Creator Frame Studio v0.3](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/tools/creator-frame-studio) is now on `main` with quick text styles, guide profiles and a deterministic preflight card. It stays local-first: no model call, no automatic publishing, no fake quality score.
 
 ## ⌘ TEST BEFORE YOU TRUST
 
@@ -39,7 +39,7 @@ This is a **local verification**, not proof of compatibility with every AI platf
 
 ## 🧪 CURRENTLY IN THE LAB
 
-- **Creator Frame Studio v0.3 proposal:** [feature PR #167](https://github.com/alptugharun/ai-social-media-toolkit/pull/167), not a released guarantee.
+- **Creator Frame Studio v0.3 beta:** shipped to `main` after repository CI, static smoke checks and desktop + 390×844 browser-render review. Beta still means review your exports before publishing.
 - **MCP config preflight proposal:** [feature PR #151](https://github.com/alptugharun/ai-social-media-toolkit/pull/151), not a security certificate.
 - **Creator research:** offline scorers are not live trend data, scraper access, or a virality predictor.
 
