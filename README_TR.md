@@ -40,7 +40,7 @@ Bu işlem **yerel doğrulama** sağlar; tüm AI platformlarının veya üretim s
 ## 🧪 GELİŞTİRME LABORATUVARI
 
 - **Creator Frame Studio v0.3 beta:** depo CI, statik smoke testi ve masaüstü + 390×844 gerçek tarayıcı render kontrolünden sonra `main` dalına alındı. Beta olduğu için çıktıyı paylaşmadan önce yine gözden geçir.
-- **MCP yapılandırma ön kontrol önerisi:** [PR #151](https://github.com/alptugharun/ai-social-media-toolkit/pull/151), güvenlik sertifikası değil.
+- **MCP Permission Inspector beta:** Toolkit içinde yayımlandı; ilk bağlantıdan önce MCP yapılandırmasını yerel olarak inceler. Sunucu çalıştırmaz ve **güvenlik sertifikası değildir**. [Kapsam ve kanıt →](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/resources/MCP-PERMISSION-INSPECTOR.md)
 - **Creator araştırma araçları:** çevrimdışı puanlar canlı trend verisi veya virallik tahmini değildir.
 
 ## 🌐 PROFESYONEL GITHUB PROFİLİ FİKRİ

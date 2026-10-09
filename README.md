@@ -40,7 +40,7 @@ This is a **local verification**, not proof of compatibility with every AI platf
 ## 🧪 CURRENTLY IN THE LAB
 
 - **Creator Frame Studio v0.3 beta:** shipped to `main` after repository CI, static smoke checks and desktop + 390×844 browser-render review. Beta still means review your exports before publishing.
-- **MCP config preflight proposal:** [feature PR #151](https://github.com/alptugharun/ai-social-media-toolkit/pull/151), not a security certificate.
+- **MCP Permission Inspector beta:** shipped inside the Toolkit as a local-only first-connect config review. It accepts UTF-8 JSON with optional BOM, does not launch servers, and is **not** a security certificate. [Scope & evidence →](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/resources/MCP-PERMISSION-INSPECTOR.md)
 - **Creator research:** offline scorers are not live trend data, scraper access, or a virality predictor.
 
 ## 🌐 WHY THIS GITHUB PROFILE LOOKS DIFFERENT
