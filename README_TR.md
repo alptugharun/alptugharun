@@ -23,7 +23,7 @@
 
 <table><tr><td width="50%" valign="top"><h3>⚡ AI SOCIAL MEDIA TOOLKIT</h3><p><strong>From idea to a working workflow.</strong></p><p>Agent Skills, assistants, creator workflows, reproducible first run.</p><a href="https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md">▶ Run first proof</a> · <a href="https://github.com/alptugharun/ai-social-media-toolkit">Source</a></td><td width="50%" valign="top"><h3>🔌 AI WORKBENCH MCP</h3><p><strong>Small surface. Real utility.</strong></p><p>Three read-only tools for prompts and assistant blueprints.</p><a href="https://github.com/alptugharun/ai-workbench-mcp">▶ Setup &amp; diagnostics</a> · <a href="https://github.com/alptugharun/ai-workbench-mcp/issues/5">Host testing</a></td></tr><tr><td valign="top"><h3>🛡️ SKILL SAFETY AUDITOR</h3><p><strong>Inspect before you install.</strong></p><p>Offline, human-reviewable findings. Not a security certification.</p><a href="https://github.com/alptugharun/agent-skill-safety-auditor">▶ Try the scanner</a></td><td valign="top"><h3>📡 CREATOR SIGNAL LAB</h3><p><strong>Less guessing. More signal.</strong></p><p>Explainable CSV scoring for content opportunities and outlier posts.</p><a href="https://github.com/alptugharun/creator-signal-lab">▶ Explore examples</a></td></tr></table>
 
-> **Deneysel alan:** [Creator Frame Studio beta](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/tools/creator-frame-studio), görsel kadrajlama ve dışa aktarma aracıdır. [PR #167](https://github.com/alptugharun/ai-social-media-toolkit/pull/167) içindeki geliştirmeler birleşip doğrulanmadan yayımlanmış özellik sayılmaz.
+> **Yayımlanan beta:** [Creator Frame Studio v0.3](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/tools/creator-frame-studio) artık `main` dalında. Hızlı metin stilleri, kılavuz profilleri ve deterministik yayın-öncesi kontrol kartı içerir. Yerel çalışır; model çağrısı, otomatik paylaşım veya sahte kalite puanı yoktur.
 
 ## ⌘ ÖNCE TEST, SONRA GÜVEN
 
@@ -39,7 +39,7 @@ Bu işlem **yerel doğrulama** sağlar; tüm AI platformlarının veya üretim s
 
 ## 🧪 GELİŞTİRME LABORATUVARI
 
-- **Creator Frame Studio v0.3 önerisi:** [PR #167](https://github.com/alptugharun/ai-social-media-toolkit/pull/167), henüz yayımlanmış özellik garantisi değil.
+- **Creator Frame Studio v0.3 beta:** depo CI, statik smoke testi ve masaüstü + 390×844 gerçek tarayıcı render kontrolünden sonra `main` dalına alındı. Beta olduğu için çıktıyı paylaşmadan önce yine gözden geçir.
 - **MCP yapılandırma ön kontrol önerisi:** [PR #151](https://github.com/alptugharun/ai-social-media-toolkit/pull/151), güvenlik sertifikası değil.
 - **Creator araştırma araçları:** çevrimdışı puanlar canlı trend verisi veya virallik tahmini değildir.
 
