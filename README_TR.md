@@ -1,132 +1,64 @@
 <div align="center">
 
-<a href="./README.md"><img src="https://img.shields.io/badge/English-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="English"></a>
-<a href="./README_TR.md"><img src="https://img.shields.io/badge/Türkçe-E30A17?style=for-the-badge&logo=readme&logoColor=white" alt="Türkçe"></a>
+![Alptuğ Harun — I Build What's Next: AI Agents, MCP, Creator Tools, Automation](assets/future-operator-hero.svg)
 
-# Alptuğ Harun
+**AI-NATIVE CREATOR SYSTEMS · OPEN SOURCE · PROOF-FIRST ENGINEERING**
 
-### Sosyal Medya Uzmanı · AI Workflow Builder · Dijital İçerik Üreticisi
-
-Belirsiz bir AI fikrini alıp **çalışan, test edilebilen, anlatılabilen ve tekrar kullanılabilen** bir sisteme dönüştürmeyi seviyorum.
-
-[![Website](https://img.shields.io/badge/alptugharun.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alptugharun.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alptugharun/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alptug.harun/)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/alptugharun/)
+[ENGLISH](README.md) · [TÜRKÇE](README_TR.md)
 
 </div>
 
----
+## 🚀 KISACA NE YAPIYORUM?
 
-## Gerçekte ne geliştiriyorum?
+**İçerik üreticileri, geliştiriciler ve markalar için gerçek AI araçları** geliştiriyorum: Agent Skill, MCP sunucusu, içerik araştırması ve görsel üretim iş akışları. Amaç yalnızca fütüristik görünmek değil. **Çalıştır. İncele. Zorla. Geliştir.**
 
-Açık kaynak işlerimde kullandığım akış basit:
+### ⌁ BAŞLANGIÇ NOKTANI SEÇ
 
-**prompt → yeniden kullanılabilir asistan → Agent Skill → MCP/API → otomasyon → doğrulama**
+| 01 / KEŞFEDİYORUM | 02 / GELİŞTİRİYORUM | 03 / İÇERİK ÜRETİYORUM |
+| :--- | :--- | :--- |
+| [**2 dakikalık test →**](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) | [**MCP sunucusu →**](https://github.com/alptugharun/ai-workbench-mcp) | [**Frame Studio beta →**](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/tools/creator-frame-studio) |
+| Yerel testte ücretli model veya giriş gerekmez | Salt okunur prompt ve asistan araçları | Yerel sosyal medya görsel kadrajlama |
 
-**ChatGPT/OpenAI, Claude/Anthropic, Gemini ve Grok/xAI** tarafında çalışıyorum. Canva, Pinterest, Reels, sosyal medya araştırması ve dijital görünürlük ise bu sistemlerin creator odaklı uygulama alanları.
+## ✦ ÜRÜN MERKEZİ
 
-Benim için en önemli kısım şu: **çalışıyor mu, nerede bozulabilir, hangi izni istiyor ve başka biri aynı sonucu tekrar üretebilir mi?**
+<table><tr><td width="50%" valign="top"><h3>⚡ AI SOCIAL MEDIA TOOLKIT</h3><p><strong>From idea to a working workflow.</strong></p><p>Agent Skills, assistants, creator workflows, reproducible first run.</p><a href="https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md">▶ Run first proof</a> · <a href="https://github.com/alptugharun/ai-social-media-toolkit">Source</a></td><td width="50%" valign="top"><h3>🔌 AI WORKBENCH MCP</h3><p><strong>Small surface. Real utility.</strong></p><p>Three read-only tools for prompts and assistant blueprints.</p><a href="https://github.com/alptugharun/ai-workbench-mcp">▶ Setup &amp; diagnostics</a> · <a href="https://github.com/alptugharun/ai-workbench-mcp/issues/5">Host testing</a></td></tr><tr><td valign="top"><h3>🛡️ SKILL SAFETY AUDITOR</h3><p><strong>Inspect before you install.</strong></p><p>Offline, human-reviewable findings. Not a security certification.</p><a href="https://github.com/alptugharun/agent-skill-safety-auditor">▶ Try the scanner</a></td><td valign="top"><h3>📡 CREATOR SIGNAL LAB</h3><p><strong>Less guessing. More signal.</strong></p><p>Explainable CSV scoring for content opportunities and outlier posts.</p><a href="https://github.com/alptugharun/creator-signal-lab">▶ Explore examples</a></td></tr></table>
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-<img src="https://img.shields.io/badge/MCP-111827?style=flat-square" alt="MCP">
-<img src="https://img.shields.io/badge/Agent_Skills-6D28D9?style=flat-square" alt="Agent Skills">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-<img src="https://img.shields.io/badge/Anthropic-D97706?style=flat-square" alt="Anthropic">
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
-<img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white" alt="Grok">
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva">
-<img src="https://img.shields.io/badge/Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest">
-</p>
+> **Deneysel alan:** [Creator Frame Studio beta](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/tools/creator-frame-studio), görsel kadrajlama ve dışa aktarma aracıdır. [PR #167](https://github.com/alptugharun/ai-social-media-toolkit/pull/167) içindeki geliştirmeler birleşip doğrulanmadan yayımlanmış özellik sayılmaz.
 
-## Öne çıkan açık kaynak çalışmam
-
-### 🚀 [AI Social Media Toolkit](https://github.com/alptugharun/ai-social-media-toolkit)
-
-Sadece prompt koleksiyonu olmayan, pratik bir AI workbench.
-
-İçinde:
-
-- yeniden kullanılabilir prompt sistemleri ve asistan blueprint'leri;
-- creator operasyonları, araştırma ve dijital görünürlük için **17 Agent Skill**;
-- bağımlılıksız, salt-okunur **MCP server**;
-- API/bot başlangıç yapıları;
-- CI, CodeQL, OpenSSF Scorecard ve M8ven doğrulaması;
-- tekrar üretilebilir demolar, runtime kanıt kuralları ve hata senaryoları.
-
-[![CI](https://github.com/alptugharun/ai-social-media-toolkit/actions/workflows/validate-skills.yml/badge.svg)](https://github.com/alptugharun/ai-social-media-toolkit/actions/workflows/validate-skills.yml)
-[![M8ven Score](https://m8ven.ai/badge/mcp/alptugharun-ai-social-media-toolkit-adv58l?v=03bebb9d62df5457451770e8ba62ec55)](https://m8ven.ai/mcp/alptugharun-ai-social-media-toolkit-adv58l?s=readme)
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/alptugharun/ai-social-media-toolkit/badge)](https://scorecard.dev/viewer/?uri=github.com/alptugharun/ai-social-media-toolkit)
-
-**Buradan başla:** [2 dakikalık doğrulama](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) · [10 Quick Wins](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/QUICK-WINS.md) · [AI Ecosystem Hub](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/AI-ECOSYSTEM-HUB.md) · [Standalone MCP](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/packages/ai-workbench-mcp/README.md)
-
-## Bağımsız projeler
-
-Toolkit içindeki üç çalışma artık kendi odaklı public reposuna sahip.
-
-### 🔌 [AI Workbench MCP](https://github.com/alptugharun/ai-workbench-mcp)
-
-[![CI](https://github.com/alptugharun/ai-workbench-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/alptugharun/ai-workbench-mcp/actions/workflows/ci.yml)
-
-Yeniden kullanılabilir prompt ve asistan blueprint'lerini sunan bağımlılıksız, salt-okunur MCP server. Public yüzeyi özellikle küçük tutuldu: `list_prompts`, `render_prompt` ve `get_assistant`. `0.1.0a1` sürümü PyPI'de yayınlandı ve resmi MCP Registry'de aktif; exact-version stdio doğrulaması gerçek host uyumluluğundan ayrı tutuluyor.
-
-### 🛡️ [Agent Skill Safety Auditor](https://github.com/alptugharun/agent-skill-safety-auditor)
-
-[![CI](https://github.com/alptugharun/agent-skill-safety-auditor/actions/workflows/ci.yml/badge.svg)](https://github.com/alptugharun/agent-skill-safety-auditor/actions/workflows/ci.yml)
-
-Agent Skill'leri kurmadan önce offline inceler. Remote shell pipe, process erişimi, environment okuma ve install hook gibi sinyalleri görünür hale getirir; son kararı regex'e değil insana bırakır.
-
-### 📈 [Creator Signal Lab](https://github.com/alptugharun/creator-signal-lab)
-
-[![CI](https://github.com/alptugharun/creator-signal-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/alptugharun/creator-signal-lab/actions/workflows/ci.yml)
-
-İki şeffaf creator araştırma aracı: içerik fırsatlarını önceliklendiren scorer ve kendi baseline'ına göre sosyal gönderi outlier'larını bulan scorer. Scraping yok, gizli AI puanı yok, virallik vaadi yok.
-
-Ana toolkit içinde kalan iki güçlü hat: **Creator Research Radars** ve **Human-first Content QA**. Bunları da ancak bağımsız kullanım senaryosu entegre kalmaktan daha güçlü hale gelirse ayıracağım.
-
-**Hâlâ 20 boş repo yerine az sayıda gerçekten kullanılan repo tercih ederim.**
-
-## İki dakikada bir şey dene
-
-Ana toolkit'i klonla ve çalıştır:
+## ⌘ ÖNCE TEST, SONRA GÜVEN
 
 ```bash
+git clone https://github.com/alptugharun/ai-social-media-toolkit.git
+cd ai-social-media-toolkit
 python tools/first_run_check.py
 ```
 
-Bu kontrol için API key, sosyal medya girişi veya ücretli model çağrısı gerekmez.
+Bu işlem **yerel doğrulama** sağlar; tüm AI platformlarının veya üretim sistemlerinin uyumluluğunu kanıtlamaz. [Kurulum/hata çözümü](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) ve [güvenlik notları](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/SECURITY.md) ile ilerle.
 
-Başarılı bir çalıştırma; yerel kataloğu, dry-run provider yolunu, Agent Skill installer akışını ve creator demoyu doğrular.
+**KANIT MERDİVENİ:** Taslak → Yerel test → Gerçek uygulama ortamında doğrulama → Bağımsız kullanım kanıtı.
 
-## Kanıt seviyelerini nasıl ayırıyorum?
+## 🧪 GELİŞTİRME LABORATUVARI
 
-Şunları birbirine karıştırmıyorum:
+- **Creator Frame Studio v0.3 önerisi:** [PR #167](https://github.com/alptugharun/ai-social-media-toolkit/pull/167), henüz yayımlanmış özellik garantisi değil.
+- **MCP yapılandırma ön kontrol önerisi:** [PR #151](https://github.com/alptugharun/ai-social-media-toolkit/pull/151), güvenlik sertifikası değil.
+- **Creator araştırma araçları:** çevrimdışı puanlar canlı trend verisi veya virallik tahmini değildir.
 
-**Blueprint** → **Offline tested** → **Runtime verified** → **Production evidence**
+## 🌐 PROFESYONEL GITHUB PROFİLİ FİKRİ
 
-Bir README'de "çalışıyor" yazması, gerçek bir hostun onu çalıştırdığı anlamına gelmez.
+**En iyi GitHub profil README örnekleri** arayanlar için bu sayfada uyguladığım yaklaşım: özgün SVG kapak, iki dilde kolay gezinme, ürün kartları, çalışan komut örneği, alternatif metinler ve kontrol edilebilir kaynak bağlantıları. Sahte sıralama iddiaları, ziyaretçi sayacı veya zorunlu dinamik widget yok.
 
-Standalone MCP paketini gerçek bir hostta test etmek istersen:
+**Tasarım ilkesi:** Özgün görünüm dikkat çeker. Kullanışlı araçlar insanları tutar. Test ve sınırlamalar güven oluşturur.
 
-→ [Bağımsız MCP runtime doğrulaması](https://github.com/alptugharun/ai-social-media-toolkit/issues/110)
+## ↗ GITHUB DIŞINDA
 
-## Creator ve marka tarafı
+[Web sitesi / iş birliği](https://alptugharun.com) · [AI yazılarım](https://alptugharun.hashnode.dev) · [LinkedIn](https://www.linkedin.com/in/alptugharun/) · [Behance](https://www.behance.net/alptugharun/) · [Instagram](https://www.instagram.com/alptug.harun/)
 
-GitHub, yaptığım işlerin teknik ve açık kaynak katmanı.
-
-GitHub dışında AI destekli sosyal medya, dijital görünürlük ve creator sistemleri üzerinde **ADYA Creative** ve **Yeşil Dijital Akademi** kapsamında çalışıyorum.
-
----
+Marka ve creator çalışmalarım: **ADYA Creative** ve **Yeşil Dijital Akademi**.
 
 <div align="center">
 
-### GitHub görünümü
+### BOŞ GÖSTERİ DEĞİL. DAHA İYİ SİSTEMLER.
 
-<img src="https://github-readme-stats.vercel.app/api?username=alptugharun&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="Alptuğ Harun GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alptugharun&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages">
-
-**Daha az gürültü. Daha fazla kanıt.**
+*İşe yarayanı geliştir. Kanıtını göster. Sınırını açıkla.*
 
 </div>
