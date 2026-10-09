@@ -49,6 +49,9 @@ Searching for **best GitHub profile README ideas** or **professional GitHub READ
 
 **Design principle:** Signature visuals open the door. Working products make people stay. Source, tests and limitations earn trust.
 
+
+**Shape the roadmap:** [💡 Suggest a feature or leave constructive feedback](https://github.com/alptugharun/ai-social-media-toolkit/issues/169) · [Join Discussions](https://github.com/alptugharun/ai-social-media-toolkit/discussions). Real-world criticism is welcome; disclose security issues privately.
+
 ## ↗ OUTSIDE THE TERMINAL
 
 [Website / work together](https://alptugharun.com) · [AI articles](https://alptugharun.hashnode.dev) · [LinkedIn](https://www.linkedin.com/in/alptugharun/) · [Behance](https://www.behance.net/alptugharun/) · [Instagram](https://www.instagram.com/alptug.harun/)
