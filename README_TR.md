@@ -1,48 +1,31 @@
 <div align="center">
 
-<a href="./README.md">English</a> · <a href="./README_TR.md">Türkçe</a>
+![Alptuğ Harun — I Build What's Next: AI Agents, MCP, Creator Tools, Automation](assets/future-operator-hero.svg)
 
-# ALPTUĞ HARUN
-### Yapay zekâ iş akışı geliştiricisi · Açık kaynak araçlar · İçerik üretim sistemleri
+**AI-NATIVE CREATOR SYSTEMS · OPEN SOURCE · PROOF-FIRST ENGINEERING**
 
-**Yapay zekâ fikirlerini insanların kurabildiği, inceleyebildiği ve gerçekten kullanabildiği araçlara dönüştürüyorum.**
-
-[Projeleri keşfet](#nereden-başlamalı) · [2 dakikalık kontrol](#iki-dakikada-dene) · [Doğrulama yaklaşımı](#vaat-değil-kanıt) · [İş birliği](#birlikte-çalışalım)
-
-[![Web sitesi](https://img.shields.io/badge/Web_sitesi-alptugharun.com-0B1220?style=for-the-badge)](https://alptugharun.com)
-[![Yazılar](https://img.shields.io/badge/Practical_AI-Workflows-365CF5?style=for-the-badge)](https://alptugharun.hashnode.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bağlantı-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alptugharun/)
+[ENGLISH](README.md) · [TÜRKÇE](README_TR.md)
 
 </div>
 
----
+## 🚀 KISACA NE YAPIYORUM?
 
-## Rozet koleksiyonu değil, çalışan ürün vitrini
+**İçerik üreticileri, geliştiriciler ve markalar için gerçek AI araçları** geliştiriyorum: Agent Skill, MCP sunucusu, içerik araştırması ve görsel üretim iş akışları. Amaç yalnızca fütüristik görünmek değil. **Çalıştır. İncele. Zorla. Geliştir.**
 
-**İyi bir GitHub profili ürün sayfası gibi çalışmalı:** açık bir fayda, hemen denenebilen araçlar, yeniden üretilebilir kanıt ve dürüst sınırlar.
+### ⌁ BAŞLANGIÇ NOKTANI SEÇ
 
-```text
-İHTİYAÇ                         GELİŞTİRME AKIŞI                  KANIT
-"İşimi çözsün"             →     prompt → skill → MCP → otomasyon  → demo + test
-"Ne içerik üretmeliyim?"    →     veri → puanlama → insan kontrolü   → açıklanabilir sonuç
-"Kurulum güvenli mi?"       →     izinler → statik denetim          → bulgu + inceleme
-```
-
-## Nereden başlamalı?
-
-| İhtiyacın | Buradan başla | Ne sağlıyor? |
+| 01 / KEŞFEDİYORUM | 02 / GELİŞTİRİYORUM | 03 / İÇERİK ÜRETİYORUM |
 | :--- | :--- | :--- |
-| **API anahtarı olmadan AI aracı denemek** | [AI Social Media Toolkit](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) | Yerel kontrol, prompt, asistan taslakları, Agent Skills ve içerik akışları |
-| **Üç salt okunur MCP aracı kullanmak** | [AI Workbench MCP](https://github.com/alptugharun/ai-workbench-mcp) | Prompt listesi, prompt oluşturma ve asistan taslağı |
-| **Skill kurmadan riskleri incelemek** | [Agent Skill Safety Auditor](https://github.com/alptugharun/agent-skill-safety-auditor) | Çevrimdışı statik kontrol ve anlaşılır risk bulguları |
-| **Kendi verilerinle içerik fırsatı sıralamak** | [Creator Signal Lab](https://github.com/alptugharun/creator-signal-lab) | Şeffaf CSV tabanlı fırsat ve aykırı gönderi analizi |
-| **Görselleri farklı formatlarda hazırlamak** | [Creator Frame Studio beta](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/tools/creator-frame-studio) | Yerel kadrajlama ve dışa aktarma; AI veya otomatik paylaşım değil |
+| [**2 dakikalık test →**](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) | [**MCP sunucusu →**](https://github.com/alptugharun/ai-workbench-mcp) | [**Frame Studio beta →**](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/tools/creator-frame-studio) |
+| Yerel testte ücretli model veya giriş gerekmez | Salt okunur prompt ve asistan araçları | Yerel sosyal medya görsel kadrajlama |
 
-> **Yayın sınırı:** Beta sürümler ve açık PR'lar, kullanıma sunulmuş ve üretim ortamında doğrulanmış özellik gibi gösterilmez. Güncel durum için ilgili depoya bak.
+## ✦ ÜRÜN MERKEZİ
 
-## İki dakikada dene
+<table><tr><td width="50%" valign="top"><h3>⚡ AI SOCIAL MEDIA TOOLKIT</h3><p><strong>From idea to a working workflow.</strong></p><p>Agent Skills, assistants, creator workflows, reproducible first run.</p><a href="https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md">▶ Run first proof</a> · <a href="https://github.com/alptugharun/ai-social-media-toolkit">Source</a></td><td width="50%" valign="top"><h3>🔌 AI WORKBENCH MCP</h3><p><strong>Small surface. Real utility.</strong></p><p>Three read-only tools for prompts and assistant blueprints.</p><a href="https://github.com/alptugharun/ai-workbench-mcp">▶ Setup &amp; diagnostics</a> · <a href="https://github.com/alptugharun/ai-workbench-mcp/issues/5">Host testing</a></td></tr><tr><td valign="top"><h3>🛡️ SKILL SAFETY AUDITOR</h3><p><strong>Inspect before you install.</strong></p><p>Offline, human-reviewable findings. Not a security certification.</p><a href="https://github.com/alptugharun/agent-skill-safety-auditor">▶ Try the scanner</a></td><td valign="top"><h3>📡 CREATOR SIGNAL LAB</h3><p><strong>Less guessing. More signal.</strong></p><p>Explainable CSV scoring for content opportunities and outlier posts.</p><a href="https://github.com/alptugharun/creator-signal-lab">▶ Explore examples</a></td></tr></table>
 
-Ana toolkit'in ücretsiz ve API anahtarı gerektirmeyen yerel kontrolü:
+> **Deneysel alan:** [Creator Frame Studio beta](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/tools/creator-frame-studio), görsel kadrajlama ve dışa aktarma aracıdır. [PR #167](https://github.com/alptugharun/ai-social-media-toolkit/pull/167) içindeki geliştirmeler birleşip doğrulanmadan yayımlanmış özellik sayılmaz.
+
+## ⌘ ÖNCE TEST, SONRA GÜVEN
 
 ```bash
 git clone https://github.com/alptugharun/ai-social-media-toolkit.git
@@ -50,44 +33,32 @@ cd ai-social-media-toolkit
 python tools/first_run_check.py
 ```
 
-Başarılı sonuç **yerel dosyaları** denetler; harici AI sağlayıcılarını, gerçek hesapları veya bütün uygulama ortamlarını doğrulamaz. [Kurulum ve hata giderme rehberi →](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md)
+Bu işlem **yerel doğrulama** sağlar; tüm AI platformlarının veya üretim sistemlerinin uyumluluğunu kanıtlamaz. [Kurulum/hata çözümü](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) ve [güvenlik notları](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/SECURITY.md) ile ilerle.
 
-## Projeler ve doğrulama bağlantıları
+**KANIT MERDİVENİ:** Taslak → Yerel test → Gerçek uygulama ortamında doğrulama → Bağımsız kullanım kanıtı.
 
-| Ürün | Kontrol et |
-| :--- | :--- |
-| [AI Social Media Toolkit](https://github.com/alptugharun/ai-social-media-toolkit) | [CI](https://github.com/alptugharun/ai-social-media-toolkit/actions/workflows/validate-skills.yml) · [Güvenlik](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/SECURITY.md) · [Katkı rehberi](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/CONTRIBUTING.md) |
-| [AI Workbench MCP](https://github.com/alptugharun/ai-workbench-mcp) | [CI](https://github.com/alptugharun/ai-workbench-mcp/actions/workflows/ci.yml) · [Bağımsız ortam testi çağrısı](https://github.com/alptugharun/ai-workbench-mcp/issues/5) |
-| [Agent Skill Safety Auditor](https://github.com/alptugharun/agent-skill-safety-auditor) | [CI](https://github.com/alptugharun/agent-skill-safety-auditor/actions/workflows/ci.yml) · Statik tarama; güvenlik sertifikası değil |
-| [Creator Signal Lab](https://github.com/alptugharun/creator-signal-lab) | [CI](https://github.com/alptugharun/creator-signal-lab/actions/workflows/ci.yml) · Scraping veya virallik tahmini yok |
+## 🧪 GELİŞTİRME LABORATUVARI
 
-## Vaat değil, kanıt
+- **Creator Frame Studio v0.3 önerisi:** [PR #167](https://github.com/alptugharun/ai-social-media-toolkit/pull/167), henüz yayımlanmış özellik garantisi değil.
+- **MCP yapılandırma ön kontrol önerisi:** [PR #151](https://github.com/alptugharun/ai-social-media-toolkit/pull/151), güvenlik sertifikası değil.
+- **Creator araştırma araçları:** çevrimdışı puanlar canlı trend verisi veya virallik tahmini değildir.
 
-**Taslak → çevrimdışı test → gerçek uygulama ortamında test → gerçek kullanıcı kanıtı** aşamalarını birbirinden ayırıyorum. Yeşil yerel test, bağımsız kullanıcı doğrulaması değildir. Güvenlik uyarısı tek başına zararlı yazılım teşhisi değildir.
+## 🌐 PROFESYONEL GITHUB PROFİLİ FİKRİ
 
-Önceliklerim: en az yetki · açıklanabilir sonuç · test edilebilir kurulum · anlaşılır hata mesajları · erişilebilir dokümantasyon · paylaşım öncesinde insan onayı.
+**En iyi GitHub profil README örnekleri** arayanlar için bu sayfada uyguladığım yaklaşım: özgün SVG kapak, iki dilde kolay gezinme, ürün kartları, çalışan komut örneği, alternatif metinler ve kontrol edilebilir kaynak bağlantıları. Sahte sıralama iddiaları, ziyaretçi sayacı veya zorunlu dinamik widget yok.
 
-## Profesyonel GitHub profili nasıl hazırlanır?
+**Tasarım ilkesi:** Özgün görünüm dikkat çeker. Kullanışlı araçlar insanları tutar. Test ve sınırlamalar güven oluşturur.
 
-**GitHub profil README fikirleri** arayanlar için bu sayfada uyguladığım altı kural:
+## ↗ GITHUB DIŞINDA
 
-1. Teknolojileri saymadan önce kullanıcının hangi işini çözdüğünü anlat.
-2. Gösterişli sayılardan önce gerçekten çalıştırılabilen bir örnek sun.
-3. Testlerin neyi kanıtladığını ve neyi kanıtlamadığını açıkça yaz.
-4. Harici görseller yüklenmese bile sayfa anlaşılır kalsın.
-5. Mobil okunabilirliğe, erişilebilirliğe ve iki dil arasında geçişe önem ver.
-6. Yıldız istemek kadar yeniden üretilebilir hata bildirimini de önemse.
+[Web sitesi / iş birliği](https://alptugharun.com) · [AI yazılarım](https://alptugharun.hashnode.dev) · [LinkedIn](https://www.linkedin.com/in/alptugharun/) · [Behance](https://www.behance.net/alptugharun/) · [Instagram](https://www.instagram.com/alptug.harun/)
 
-Bu sayfa bir uygulama örneğidir; Google sıralaması veya dünyada birincilik garantisi değildir.
-
-## Birlikte çalışalım
-
-AI destekli içerik sistemleri, Agent Skill/MCP uygulamaları, araştırma araçları ve onay kontrollü otomasyonlar geliştiriyorum. Açık kaynak depolarım teknik vitrinim; uygulama ve danışmanlık çalışmalarım için [alptugharun.com](https://alptugharun.com).
-
-Markalar: **ADYA Creative** · **Yeşil Dijital Akademi**. Yazılar: [Practical AI Workflows](https://alptugharun.hashnode.dev). Portfolyo: [Behance](https://www.behance.net/alptugharun/). Sosyal: [Instagram](https://www.instagram.com/alptug.harun/).
+Marka ve creator çalışmalarım: **ADYA Creative** ve **Yeşil Dijital Akademi**.
 
 <div align="center">
 
-**DAHA AZ GÜRÜLTÜ. DAHA FAYDALI ÜRÜN. DAHA SAĞLAM KANIT.**
+### BOŞ GÖSTERİ DEĞİL. DAHA İYİ SİSTEMLER.
+
+*İşe yarayanı geliştir. Kanıtını göster. Sınırını açıkla.*
 
 </div>
