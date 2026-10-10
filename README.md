@@ -54,7 +54,7 @@ Searching for **best GitHub profile README ideas** or **professional GitHub READ
 
 ## ↗ OUTSIDE THE TERMINAL
 
-[Website / work together](https://alptugharun.com) · [AI articles](https://alptugharun.hashnode.dev) · [LinkedIn](https://www.linkedin.com/in/alptugharun/) · [Behance](https://www.behance.net/alptugharun/) · [Instagram](https://www.instagram.com/alptug.harun/)
+[Website / work together](https://alptugharun.com) · [AI articles](https://alptugharun.hashnode.dev) · [Bluesky](https://bsky.app/profile/alptugharun.bsky.social) · [YouTube](https://www.youtube.com/channel/UCe_gK6eaxt-M-XWecxXnB1Q) · [LinkedIn](https://www.linkedin.com/in/alptugharun/) · [Behance](https://www.behance.net/alptugharun/) · [Instagram](https://www.instagram.com/alptug.harun/)
 
 Creator strategy and brand work: **ADYA Creative** and **Yeşil Dijital Akademi**.
 
