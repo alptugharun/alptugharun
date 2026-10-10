@@ -54,7 +54,7 @@ Bu işlem **yerel doğrulama** sağlar; tüm AI platformlarının veya üretim s
 
 ## ↗ GITHUB DIŞINDA
 
-[Web sitesi / iş birliği](https://alptugharun.com) · [AI yazılarım](https://alptugharun.hashnode.dev) · [LinkedIn](https://www.linkedin.com/in/alptugharun/) · [Behance](https://www.behance.net/alptugharun/) · [Instagram](https://www.instagram.com/alptug.harun/)
+[Web sitesi / iş birliği](https://alptugharun.com) · [AI yazılarım](https://alptugharun.hashnode.dev) · [Bluesky](https://bsky.app/profile/alptugharun.bsky.social) · [YouTube](https://www.youtube.com/channel/UCe_gK6eaxt-M-XWecxXnB1Q) · [LinkedIn](https://www.linkedin.com/in/alptugharun/) · [Behance](https://www.behance.net/alptugharun/) · [Instagram](https://www.instagram.com/alptug.harun/)
 
 Marka ve creator çalışmalarım: **ADYA Creative** ve **Yeşil Dijital Akademi**.
 
