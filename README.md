@@ -50,7 +50,7 @@ Searching for **best GitHub profile README ideas** or **professional GitHub READ
 **Design principle:** Signature visuals open the door. Working products make people stay. Source, tests and limitations earn trust.
 
 
-**Shape the roadmap:** [🧪 Join Real User Lab](https://github.com/alptugharun/ai-social-media-toolkit/issues/178) · [💡 Suggest a feature or leave constructive feedback](https://github.com/alptugharun/ai-social-media-toolkit/issues/169) · [Join Discussions](https://github.com/alptugharun/ai-social-media-toolkit/discussions). Reproducible criticism is more useful than generic praise; disclose security issues privately.
+**Shape the roadmap:** [🧪 Try the live demo + report the first friction](https://github.com/alptugharun/ai-social-media-toolkit/issues/178) · [💡 Suggest a feature or leave constructive feedback](https://github.com/alptugharun/ai-social-media-toolkit/issues/169) · [Join Discussions](https://github.com/alptugharun/ai-social-media-toolkit/discussions). Reproducible criticism is more useful than generic praise; disclose security issues privately.
 
 ## ↗ OUTSIDE THE TERMINAL
 
