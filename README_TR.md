@@ -50,7 +50,7 @@ Bu işlem **yerel doğrulama** sağlar; tüm AI platformlarının veya üretim s
 **Tasarım ilkesi:** Özgün görünüm dikkat çeker. Kullanışlı araçlar insanları tutar. Test ve sınırlamalar güven oluşturur.
 
 
-**Yol haritasına katkı ver:** [🧪 Real User Lab'e katıl](https://github.com/alptugharun/ai-social-media-toolkit/issues/178) · [💡 Fikir öner veya yapıcı eleştiri bırak](https://github.com/alptugharun/ai-social-media-toolkit/issues/169) · [Topluluk tartışmaları](https://github.com/alptugharun/ai-social-media-toolkit/discussions). Tekrarlanabilir eleştiri genel övgüden daha değerlidir; güvenlik açıklarını herkese açık paylaşma.
+**Yol haritasına katkı ver:** [🧪 Canlı demoyu dene + ilk takıldığın yeri yaz](https://github.com/alptugharun/ai-social-media-toolkit/issues/178) · [💡 Fikir öner veya yapıcı eleştiri bırak](https://github.com/alptugharun/ai-social-media-toolkit/issues/169) · [Topluluk tartışmaları](https://github.com/alptugharun/ai-social-media-toolkit/discussions). Tekrarlanabilir eleştiri genel övgüden daha değerlidir; güvenlik açıklarını herkese açık paylaşma.
 
 ## ↗ GITHUB DIŞINDA
 
