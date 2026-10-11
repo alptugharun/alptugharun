@@ -27,6 +27,14 @@ Creators get usable tools. Builders get inspectable systems. Brands get workflow
 
 **Prefer a download?** [⬇ v0.3.0-alpha.1 release — Agent Skills, Context Builder, Frame Studio & checksums](https://github.com/alptugharun/ai-social-media-toolkit/releases/tag/v0.3.0-alpha.1)
 
+### 🛡 TRUST & VERIFICATION SNAPSHOT
+
+- **19 installable Agent Skills** with a beginner guide for every skill, a shared context foundation and contract tests that fail if future skills ship without documentation.
+- **3 deliberately read-only MCP tools** in AI Workbench MCP: no network, shell, account access or file writes; published to PyPI and the official MCP Registry.
+- **Supply-chain controls:** CodeQL, Dependabot, SHA-pinned GitHub Actions, least-privilege workflow tokens, private vulnerability reporting, versioned checksums and Sigstore-signed release assets.
+- **External review:** [OpenSSF Scorecard](https://scorecard.dev/viewer/?uri=github.com/alptugharun/ai-social-media-toolkit) · [M8ven Trust Index](https://m8ven.ai/mcp/alptugharun/ai-social-media-toolkit) · [Trust Matrix](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/docs/TRUST-MATRIX.md).
+- **Important:** external scanners can lag behind `main`. A badge is evidence, not a security certificate; current code, tests and limitations stay the source of truth.
+
 ## ✦ THE BUILD DECK
 
 <table><tr><td width="50%" valign="top"><h3>⚡ AI SOCIAL MEDIA TOOLKIT</h3><p><strong>From idea to a working workflow.</strong></p><p>Agent Skills, assistants, creator workflows, reproducible first run.</p><a href="https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md">▶ Run first proof</a> · <a href="https://github.com/alptugharun/ai-social-media-toolkit">Source</a></td><td width="50%" valign="top"><h3>🔌 AI WORKBENCH MCP</h3><p><strong>Small surface. Real utility.</strong></p><p>Three read-only tools for prompts and assistant blueprints.</p><a href="https://github.com/alptugharun/ai-workbench-mcp">▶ Setup &amp; diagnostics</a> · <a href="https://github.com/alptugharun/ai-workbench-mcp/issues/5">Host testing</a></td></tr><tr><td valign="top"><h3>🛡️ SKILL SAFETY AUDITOR</h3><p><strong>Inspect before you install.</strong></p><p>Offline, human-reviewable findings. Not a security certification.</p><a href="https://github.com/alptugharun/agent-skill-safety-auditor">▶ Try the scanner</a></td><td valign="top"><h3>📡 CREATOR SIGNAL LAB</h3><p><strong>Less guessing. More signal.</strong></p><p>Explainable CSV scoring for content opportunities and outlier posts.</p><a href="https://github.com/alptugharun/creator-signal-lab">▶ Explore examples</a></td></tr></table>
