@@ -27,6 +27,14 @@ Creator için kullanılabilir araç, geliştirici için incelenebilir sistem, ma
 
 **İndirmeyi mi tercih ediyorsun?** [⬇ v0.3.0-alpha.1 — Agent Skills, Context Builder, Frame Studio ve checksum dosyaları](https://github.com/alptugharun/ai-social-media-toolkit/releases/tag/v0.3.0-alpha.1)
 
+### 🛡 GÜVEN & DOĞRULAMA ÖZETİ
+
+- **19 kurulabilir Agent Skill**: her biri için sıfırdan kullanım rehberi, ortak creator context temeli ve gelecekte rehbersiz skill eklenmesini engelleyen test sözleşmesi var.
+- **3 özellikle salt-okunur MCP aracı**: AI Workbench MCP ağ, shell, hesap veya dosya yazma erişimi istemez; PyPI ve resmî MCP Registry'de yayımlıdır.
+- **Supply-chain kontrolleri:** CodeQL, Dependabot, tam SHA'ya sabitlenmiş GitHub Actions, minimum token yetkileri, private vulnerability reporting, sürümlü checksum ve Sigstore imzalı release dosyaları.
+- **Dış doğrulama:** [OpenSSF Scorecard](https://scorecard.dev/viewer/?uri=github.com/alptugharun/ai-social-media-toolkit) · [M8ven Trust Index](https://m8ven.ai/mcp/alptugharun/ai-social-media-toolkit) · [Trust Matrix](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/docs/TRUST-MATRIX.md).
+- **Önemli:** dış tarayıcılar `main` dalının gerisinde kalabilir. Rozet güvenlik sertifikası değildir; güncel kod, testler ve açıkça yazılmış sınırlar esas kanıttır.
+
 ## ✦ ÜRÜN MERKEZİ
 
 <table><tr><td width="50%" valign="top"><h3>⚡ AI SOCIAL MEDIA TOOLKIT</h3><p><strong>Fikirden çalışan iş akışına.</strong></p><p>Agent Skills, asistanlar, creator akışları ve yeniden üretilebilir ilk test.</p><a href="https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md">▶ İlk testi çalıştır</a> · <a href="https://github.com/alptugharun/ai-social-media-toolkit">Kaynak</a></td><td width="50%" valign="top"><h3>🔌 AI WORKBENCH MCP</h3><p><strong>Küçük yüzey. Gerçek fayda.</strong></p><p>Prompt ve asistan blueprint'leri için üç salt-okunur MCP aracı.</p><a href="https://github.com/alptugharun/ai-workbench-mcp">▶ Kurulum ve tanılama</a> · <a href="https://github.com/alptugharun/ai-workbench-mcp/issues/5">Host testi</a></td></tr><tr><td valign="top"><h3>🛡️ SKILL SAFETY AUDITOR</h3><p><strong>Kurmadan önce incele.</strong></p><p>Çevrimdışı, insan tarafından gözden geçirilebilir risk bulguları. Güvenlik sertifikası değildir.</p><a href="https://github.com/alptugharun/agent-skill-safety-auditor">▶ Denetleyiciyi dene</a></td><td valign="top"><h3>📡 CREATOR SIGNAL LAB</h3><p><strong>Daha az tahmin. Daha fazla sinyal.</strong></p><p>İçerik fırsatları ve aykırı gönderiler için açıklanabilir CSV puanlaması.</p><a href="https://github.com/alptugharun/creator-signal-lab">▶ Örnekleri incele</a></td></tr></table>
