@@ -10,7 +10,11 @@
 
 ## 🚀 KISACA NE YAPIYORUM?
 
-**İçerik üreticileri, geliştiriciler ve markalar için gerçek AI araçları** geliştiriyorum: Agent Skill, MCP sunucusu, içerik araştırması ve görsel üretim iş akışları. Amaç yalnızca fütüristik görünmek değil. **Çalıştır. İncele. Zorla. Geliştir.**
+AI araçlarını toplamayı bıraktım. **Artık gerçekten ihtiyaç duyduğum sistemleri geliştiriyor; kanıtını, sınırını ve başarısız olduğu yeri de açıkça yayımlıyorum.**
+
+Creator için kullanılabilir araç, geliştirici için incelenebilir sistem, marka için açıklanabilir iş akışı.
+
+**Bana inanmak zorunda değilsin:** [canlı uygulamayı aç](https://alptugharun.github.io/ai-social-media-toolkit/) veya [60 saniyede bozmayı dene](https://github.com/alptugharun/ai-social-media-toolkit/issues/178).
 
 ### ⌁ BAŞLANGIÇ NOKTANI SEÇ
 

@@ -10,7 +10,11 @@
 
 ## 🚀 THE SHORT VERSION
 
-I build **practical AI tools for creators, builders and brands**, from Agent Skills and MCP servers to visual production workflows. The goal isn't to look futuristic and stop there. **Run it. Inspect it. Break it. Improve it.**
+I stopped collecting AI tools. **Now I build the ones I actually need — and publish the proof, limits and failures too.**
+
+Creators get usable tools. Builders get inspectable systems. Brands get workflows that can be explained.
+
+**Don't take my word for it:** [open the live app](https://alptugharun.github.io/ai-social-media-toolkit/) or [try to break it in 60 seconds](https://github.com/alptugharun/ai-social-media-toolkit/issues/178).
 
 ### ⌁ PICK YOUR PORTAL
 
