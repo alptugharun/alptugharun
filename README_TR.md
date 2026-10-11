@@ -59,14 +59,26 @@ Bu işlem **yerel doğrulama** sağlar; tüm AI platformlarının veya üretim s
 - **MCP Permission Inspector beta:** Toolkit içinde yayımlandı; ilk bağlantıdan önce MCP yapılandırmasını yerel olarak inceler. Sunucu çalıştırmaz ve **güvenlik sertifikası değildir**. [Kapsam ve kanıt →](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/resources/MCP-PERMISSION-INSPECTOR.md)
 - **Creator araştırma araçları:** çevrimdışı puanlar canlı trend verisi veya virallik tahmini değildir.
 
-## 🌐 PROFESYONEL GITHUB PROFİLİ FİKRİ
+## 👀 BU PROFİLİ NEDEN TAKİP EDESİN?
 
-**En iyi GitHub profil README örnekleri** arayanlar için bu sayfada uyguladığım yaklaşım: özgün SVG kapak, iki dilde kolay gezinme, ürün kartları, çalışan komut örneği, alternatif metinler ve kontrol edilebilir kaynak bağlantıları. Sahte sıralama iddiaları, ziyaretçi sayacı veya zorunlu dinamik widget yok.
+Parlak “AI şunu da yaptı” paylaşımlarının arkasında genelde gösterilmeyen tarafı yayımlıyorum:
 
-**Tasarım ilkesi:** Özgün görünüm dikkat çeker. Kullanışlı araçlar insanları tutar. Test ve sınırlamalar güven oluşturur.
+- ChatGPT, Claude, Gemini ve Grok arasında taşınabilen **gerçek iş akışları**;
+- açık yetki sınırları, testleri ve başarısızlık durumlarıyla **Agent Skills + MCP deneyleri**;
+- sosyal içerik, araştırma ve görsel üretimde gerçekten kullandığım **creator araçları**;
+- sadece başarıyı değil, **ne bozuldu / hangi metrik neyi kanıtlamadı / testten sonra ne değişti** kısmını da gösteren geliştirme notları.
 
+Kaynağı olmayan “AI mucizesi” demoları arıyorsan burası sana göre olmayabilir. **Kullanılabilir sistem + görünür kanıt** istiyorsan doğru yerdesin.
 
 **Yol haritasına katkı ver:** [🧪 Canlı demoyu dene + ilk takıldığın yeri yaz](https://github.com/alptugharun/ai-social-media-toolkit/issues/178) · [💡 Fikir öner veya yapıcı eleştiri bırak](https://github.com/alptugharun/ai-social-media-toolkit/issues/169) · [Topluluk tartışmaları](https://github.com/alptugharun/ai-social-media-toolkit/discussions). Tekrarlanabilir eleştiri genel övgüden daha değerlidir; güvenlik açıklarını herkese açık paylaşma.
+
+## 🤝 BUNLARDAN BİRİNİ KENDİ İŞ AKIŞINA UYARLAMAK MI İSTİYORSUN?
+
+Kanıtlanmış açık kaynak iş akışlarını gerektiğinde **yönetilen AI workflow kurulumu, creator-ops sistemi ve özel uygulamaya** dönüştürüyorum.
+
+[Implementation kapsamı →](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/docs/PAID-IMPLEMENTATION.md) · [Benimle çalış →](https://alptugharun.com)
+
+İş netleşmeden “AI dönüşüm paketi” satmıyorum; sahte case-study rakamı da kullanmıyorum.
 
 ## ↗ GITHUB DIŞINDA
 
