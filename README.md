@@ -59,14 +59,26 @@ This is a **local verification**, not proof of compatibility with every AI platf
 - **MCP Permission Inspector beta:** shipped inside the Toolkit as a local-only first-connect config review. It accepts UTF-8 JSON with optional BOM, does not launch servers, and is **not** a security certificate. [Scope & evidence →](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/resources/MCP-PERMISSION-INSPECTOR.md)
 - **Creator research:** offline scorers are not live trend data, scraper access, or a virality predictor.
 
-## 🌐 WHY THIS GITHUB PROFILE LOOKS DIFFERENT
+## 👀 WHY FOLLOW THIS PROFILE?
 
-Searching for **best GitHub profile README ideas** or **professional GitHub README examples**? This is my working answer: an original self-hosted SVG hero, bilingual navigation, outcome-led project cards, runnable examples, accessible text alternatives, and transparent evidence links. No third-party visit counters, false rankings or dependency on dynamic widgets.
+I publish the parts that are usually hidden behind polished launch posts:
 
-**Design principle:** Signature visuals open the door. Working products make people stay. Source, tests and limitations earn trust.
+- **working AI workflows** that can move across ChatGPT, Claude, Gemini and Grok;
+- **Agent Skills + MCP experiments** with explicit permissions, tests and failure boundaries;
+- **creator tools** I actually use for social content, research and visual production;
+- **build notes from failures** — what broke, what the metric did *not* prove, and what changed after testing.
 
+If you prefer “look what AI can do” demos with no source, this probably is not the profile for you. If you want **usable systems + visible proof**, you are in the right place.
 
 **Shape the roadmap:** [🧪 Try the live demo + report the first friction](https://github.com/alptugharun/ai-social-media-toolkit/issues/178) · [💡 Suggest a feature or leave constructive feedback](https://github.com/alptugharun/ai-social-media-toolkit/issues/169) · [Join Discussions](https://github.com/alptugharun/ai-social-media-toolkit/discussions). Reproducible criticism is more useful than generic praise; disclose security issues privately.
+
+## 🤝 NEED ONE OF THESE SYSTEMS ADAPTED TO YOUR WORKFLOW?
+
+I also turn proven open-source workflows into **managed AI workflow setups, creator-ops systems and custom implementations** for real teams/brands.
+
+[See the implementation scope →](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/docs/PAID-IMPLEMENTATION.md) · [Work with me →](https://alptugharun.com)
+
+No fake case-study numbers, no “AI transformation” package before the actual job is clear.
 
 ## ↗ OUTSIDE THE TERMINAL
 
