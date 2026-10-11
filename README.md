@@ -23,6 +23,8 @@ Creators get usable tools. Builders get inspectable systems. Brands get workflow
 | [**2-minute first run →**](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) | [**MCP server →**](https://github.com/alptugharun/ai-workbench-mcp) | [**⚡ Open live Frame Studio →**](https://alptugharun.github.io/ai-social-media-toolkit/) |
 | No paid model or login for the local check | Read-only prompt + assistant tools | Local-first social-image framing and export |
 
+**New to AI workflows / MCP / Agent Skills?** [🧭 Start from zero](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/docs/START-FROM-ZERO.md) · [🛡 How the trust scores work](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/docs/TRUST-MATRIX.md)
+
 **Prefer a download?** [⬇ v0.3.0-alpha.1 release — Agent Skills, Context Builder, Frame Studio & checksums](https://github.com/alptugharun/ai-social-media-toolkit/releases/tag/v0.3.0-alpha.1)
 
 ## ✦ THE BUILD DECK

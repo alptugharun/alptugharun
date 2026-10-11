@@ -23,6 +23,8 @@ Creator için kullanılabilir araç, geliştirici için incelenebilir sistem, ma
 | [**2 dakikalık test →**](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/START-HERE.md) | [**MCP sunucusu →**](https://github.com/alptugharun/ai-workbench-mcp) | [**⚡ Canlı Frame Studio'yu aç →**](https://alptugharun.github.io/ai-social-media-toolkit/) |
 | Yerel testte ücretli model veya giriş gerekmez | Salt okunur prompt ve asistan araçları | Yerel sosyal medya görsel kadrajlama |
 
+**MCP, Agent Skill veya AI workflow nedir hiç bilmiyor musun?** [🧭 Sıfırdan başla](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/docs/START-FROM-ZERO_TR.md) · [🛡 Trust puanları nasıl çalışıyor?](https://github.com/alptugharun/ai-social-media-toolkit/blob/main/docs/TRUST-MATRIX.md)
+
 **İndirmeyi mi tercih ediyorsun?** [⬇ v0.3.0-alpha.1 — Agent Skills, Context Builder, Frame Studio ve checksum dosyaları](https://github.com/alptugharun/ai-social-media-toolkit/releases/tag/v0.3.0-alpha.1)
 
 ## ✦ ÜRÜN MERKEZİ
