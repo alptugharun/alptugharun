@@ -2,7 +2,7 @@
 
 ![Alptuğ Harun — I Build What's Next: AI Agents, MCP, Creator Tools, Automation](assets/future-operator-hero.svg)
 
-**AI-NATIVE CREATOR SYSTEMS · OPEN SOURCE · PROOF-FIRST ENGINEERING**
+**SOSYAL MEDYA UZMANI · DİJİTAL İÇERİK ÜRETİCİSİ · YARATICI STRATEJİ · PRATİK AI SİSTEMLERİ**
 
 [ENGLISH](README.md) · [TÜRKÇE](README_TR.md)
 
@@ -10,7 +10,7 @@
 
 ## 🚀 KISACA NE YAPIYORUM?
 
-AI araçlarını toplamayı bıraktım. **Artık gerçekten ihtiyaç duyduğum sistemleri geliştiriyor; kanıtını, sınırını ve başarısız olduğu yeri de açıkça yayımlıyorum.**
+Ben **Alptuğ Harun — Sosyal Medya Uzmanı, Dijital İçerik Üreticisi ve Creative Strategist'im**. Gerçek creator/sosyal medya işlerimde ihtiyaç duyduğum pratik AI sistemlerini geliştiriyor; kanıtını, sınırını ve başarısız olduğu yeri de açıkça yayımlıyorum.
 
 Creator için kullanılabilir araç, geliştirici için incelenebilir sistem, marka için açıklanabilir iş akışı.
 
@@ -84,7 +84,8 @@ Kanıtlanmış açık kaynak iş akışlarını gerektiğinde **yönetilen AI wo
 
 [Web sitesi / iş birliği](https://alptugharun.com) · [AI yazılarım](https://alptugharun.hashnode.dev) · [Bluesky](https://bsky.app/profile/alptugharun.bsky.social) · [YouTube](https://www.youtube.com/channel/UCe_gK6eaxt-M-XWecxXnB1Q) · [LinkedIn](https://www.linkedin.com/in/alptugharun/) · [Behance](https://www.behance.net/alptugharun/) · [Instagram](https://www.instagram.com/alptug.harun/)
 
-Marka ve creator çalışmalarım: **ADYA Creative** ve **Yeşil Dijital Akademi**.
+**ADYA Creative** — yapay zekâ destekli kreatif, sosyal medya ve marka stratejisi çalışmalarım.  
+**Yeşil Dijital Akademi** — **Ahu Nur Şahin Harun** ile birlikte kurduğumuz çevre, sürdürülebilir yaşam ve teknoloji odaklı eğitim/iletişim markası.
 
 <div align="center">
 

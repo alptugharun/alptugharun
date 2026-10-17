@@ -2,7 +2,7 @@
 
 ![Alptuğ Harun — I Build What's Next: AI Agents, MCP, Creator Tools, Automation](assets/future-operator-hero.svg)
 
-**AI-NATIVE CREATOR SYSTEMS · OPEN SOURCE · PROOF-FIRST ENGINEERING**
+**SOCIAL MEDIA SPECIALIST · DIGITAL CONTENT CREATOR · CREATIVE STRATEGIST · PRACTICAL AI SYSTEMS**
 
 [ENGLISH](README.md) · [TÜRKÇE](README_TR.md)
 
@@ -10,7 +10,7 @@
 
 ## 🚀 THE SHORT VERSION
 
-I stopped collecting AI tools. **Now I build the ones I actually need — and publish the proof, limits and failures too.**
+I'm **Alptuğ Harun — Social Media Specialist, Digital Content Creator and Creative Strategist**. I build practical AI systems around the creator work I actually do, then publish the proof, limits and failures too.
 
 Creators get usable tools. Builders get inspectable systems. Brands get workflows that can be explained.
 
@@ -84,7 +84,8 @@ No fake case-study numbers, no “AI transformation” package before the actual
 
 [Website / work together](https://alptugharun.com) · [AI articles](https://alptugharun.hashnode.dev) · [Bluesky](https://bsky.app/profile/alptugharun.bsky.social) · [YouTube](https://www.youtube.com/channel/UCe_gK6eaxt-M-XWecxXnB1Q) · [LinkedIn](https://www.linkedin.com/in/alptugharun/) · [Behance](https://www.behance.net/alptugharun/) · [Instagram](https://www.instagram.com/alptug.harun/)
 
-Creator strategy and brand work: **ADYA Creative** and **Yeşil Dijital Akademi**.
+**ADYA Creative** — my AI-supported creative, social-media and brand-strategy work.  
+**Yeşil Dijital Akademi** — the environmental, sustainability and technology education/communication initiative I co-founded with **Ahu Nur Şahin Harun**.
 
 <div align="center">
 
