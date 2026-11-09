@@ -27,6 +27,17 @@ Creator için kullanılabilir araç, geliştirici için incelenebilir sistem, ma
 
 **İndirmeyi mi tercih ediyorsun?** [⬇ v0.3.0-alpha.1 — Agent Skills, Context Builder, Frame Studio ve checksum dosyaları](https://github.com/alptugharun/ai-social-media-toolkit/releases/tag/v0.3.0-alpha.1)
 
+
+### ⚡ SON ÇIKANLAR
+
+Buraya her commit'i değil, gerçekten göstermeye değer yeni işleri koyuyorum:
+
+- **Rewrite Fact Guard başlangıç rehberleri** — Toolkit artık yeniden yazılmış metinde sayı, bağlantı veya korunan ifadelerin değişip değişmediğini sıfırdan anlatıyor; EN/TR rehberleri ve kör noktaları açıkça yazılı. [Akışı incele →](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/skills/brand-voice-humanizer)
+- **Agent Skill Safety Auditor güvenlik sıkılaştırması** — denetleyici artık symlink takip etmiyor; böylece hedef skill ağacının dışındaki dosyalara taşan inceleme riskini azaltıyor. [Denetleyiciyi aç →](https://github.com/alptugharun/agent-skill-safety-auditor)
+- **Creator Signal Lab CSV güvenliği** — dışa aktarılan CSV metinleri formula benzeri hücreleri etkisizleştiriyor; spreadsheet uygulamalarının kullanıcı kontrollü metni formül gibi çalıştırma riskini azaltıyor. [Lab'i incele →](https://github.com/alptugharun/creator-signal-lab)
+
+> Bu alanı bilinçli olarak kısa tutuyorum. Contribution grafiği yeşilsin diye değil, gerçekten anlamlı bir şey çıktığında güncelleniyor.
+
 ### 🛡 GÜVEN & DOĞRULAMA ÖZETİ
 
 - **19 kurulabilir Agent Skill**: her biri için sıfırdan kullanım rehberi, ortak creator context temeli ve gelecekte rehbersiz skill eklenmesini engelleyen test sözleşmesi var.
