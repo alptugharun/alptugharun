@@ -32,10 +32,9 @@ Creators get usable tools. Builders get inspectable systems. Brands get workflow
 
 These are the newest changes worth showing — not every maintenance commit:
 
+- **Readable GitHub Opportunity Radar reports** — the live GitHub issue now shows real Markdown line breaks instead of literal `\n` text, making its headings and tables readable. [View the live report →](https://github.com/alptugharun/ai-social-media-toolkit/issues/7)
 - **Rewrite Fact Guard onboarding** — the Toolkit now explains from zero how to check rewritten copy for changed numbers, links and protected phrases, with EN/TR beginner routes and explicit blind spots. [See the workflow →](https://github.com/alptugharun/ai-social-media-toolkit/tree/main/skills/brand-voice-humanizer)
 - **Agent Skill Safety Auditor hardening** — the scanner now refuses to follow symlinks during audits, reducing the chance of inspecting files outside the intended skill tree. [See the auditor →](https://github.com/alptugharun/agent-skill-safety-auditor)
-- **Creator Signal Lab CSV safety** — exported CSV text now neutralizes formula-like cells so spreadsheet software does not interpret user-controlled text as formulas. [See the lab →](https://github.com/alptugharun/creator-signal-lab)
-
 > I keep this section intentionally small. It changes when something meaningful ships, not when the contribution graph needs another green square.
 
 ### 🛡 TRUST & VERIFICATION SNAPSHOT
